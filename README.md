@@ -177,7 +177,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### SDLC Tools
 - [yapf](https://github.com/google/yapf) - yet another python formatter
 - [black](https://github.com/ambv/black) - The uncompromising Python code formatter
-- [precommit](https://github.com/pre-commit/pre-commit)[article](https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/) - A framework for managing and maintaining multi-language pre-commit hooks. (Black + Flake8)
+- [precommit](https://github.com/pre-commit/pre-commit)([article](https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/)) - A framework for managing and maintaining multi-language pre-commit hooks. (Black + Flake8)
 
 
 #### Database Connectors
