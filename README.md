@@ -120,7 +120,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 -------------
 
-#### Machine Learning
+#### Machine Learning Libraries
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
 - [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
@@ -297,6 +297,8 @@ https://github.com/Spandan-Madan/DeepLearningProject
 
 #### Python Data Science Books
 - [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [fast.ai](https://www.fast.ai/) - The fastai deep learning library, plus lessons and and tutorials http://docs.fast.ai
+- [fast.ai - Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
 - [Deep-Learning-101](https://github.com/emilwallner/Deep-Learning-101)
 - [Agile Data Science 2.0](https://github.com/rjurney/Agile_Data_Code_2)
 - [Introduction to Statistics With Python](https://github.com/thomas-haslwanter/statsintro_python)
