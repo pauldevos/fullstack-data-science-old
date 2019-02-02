@@ -304,7 +304,7 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [Introduction to Statistics With Python](https://github.com/thomas-haslwanter/statsintro_python)
 - [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 - [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
-- [ISLR in Python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
+- [ISLR](http://www-bcf.usc.edu/~gareth/ISL/) -  [ISLR in Python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
 - [Coursera ML - Andrew Ng in Python](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
 - [Think Python 2nd ed](https://github.com/AllenDowney/ThinkPython2)
 - [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
