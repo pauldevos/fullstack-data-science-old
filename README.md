@@ -235,6 +235,10 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### PDF Converters
  - [python-pdfkit](https://github.com/JazzCore/python-pdfkit) - Wkhtmltopdf python wrapper to convert html to pdf
  - [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract) - A set of tools for extracting tables from PDF files helping to do data mining on (OCR-processed) scanned documents.
+ 
+ #### Documentation Libraries
+ - Sphinx
+ - [pweave](http://mpastell.com/pweave/) - Pweave is a scientific report generator and a literate programming tool for Python. It can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib.
 
 
 #### APIs
