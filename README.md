@@ -3,6 +3,8 @@
 
 A list of some favorite libraries in Python as well as specific areas of Python e.g. Data Science, Machine Learning, etc. that I've found helpful.
 
+Popular Python APIs (with code examples)
+- [Module List](https://www.programcreek.com/python/index/module/list)
 
 ### Python Libraries
 --------------
