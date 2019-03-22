@@ -50,6 +50,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Graph-Tool](https://graph-tool.skewed.de/) - Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks)
 - [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 - [Policy Viz - DataViz Books](https://policyviz.com/better-presentations/data-viz-resources/data-viz-books/)
+- [Vispy](https://github.com/vispy/vispy)
 
 #### Data
 - [Our World in Data](https://ourworldindata.org/) - data visualizations of many things around the world
