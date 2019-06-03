@@ -348,7 +348,7 @@ https://github.com/Spandan-Madan/DeepLearningProject
 #### Codelabs
 - https://codelabs.developers.google.com/?cat=tensorflow
 
-
+ 
 #### Awesome Links
 - [Awesome-BigData](https://github.com/onurakpolat/awesome-bigdata)
 - [Awesome-Hacking-Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
