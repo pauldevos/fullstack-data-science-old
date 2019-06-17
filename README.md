@@ -203,6 +203,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [Blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
 - [Faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
+- [Kedro](https://github.com/quantumblacklabs/kedro) - A Python library for building robust production-ready data and analytics pipelines
 
 
 #### Pub-Sub, Message Queues, Streaming
