@@ -52,7 +52,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Policy Viz - DataViz Books](https://policyviz.com/better-presentations/data-viz-resources/data-viz-books/)
 - [Vispy](https://github.com/vispy/vispy)
 - [Panel](https://github.com/pyviz/panel) - A high-level Python toolkit for composing widgets and plots https://panel.pyviz.org
-
+- [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib/) - Matplotlib Jupyter Extension
+- [ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter handsontable integration
 
 #### Data
 - [Our World in Data](https://ourworldindata.org/) - data visualizations of many things around the world
