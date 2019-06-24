@@ -131,7 +131,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. http://epistasislab.github.io/tpot/
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn https://automl.github.io/auto-sklearn
-
 - [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
 - [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
 - [ray](https://github.com/ray-project/ray) - A system for parallel and distributed Python that unifies the ML ecosystem. 
@@ -148,6 +147,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Google's Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
+
+#### AutoML
+- [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library. https://mlbox.readthedocs.io/en/latest/
 
 #### Data Science Workflows
 - [Data Science Workflows using Docker Containers(YouTube)](https://www.youtube.com/watch?v=oO8n3y23b6M)
