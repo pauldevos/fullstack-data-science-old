@@ -136,7 +136,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Metrics](https://github.com/benhamner/Metrics)- Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave
 - [MLtest](https://github.com/Thenerdstation/mltest) - Testing framework to simplify writing ML unit tests.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
-- [H20ai](https://github.com/h2oai/h2o-tutorials) - Tutorials and training material for the H2O Machine Learning Platform
 - [featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering
 - [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
@@ -150,6 +149,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library. https://mlbox.readthedocs.io/en/latest/
 - [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. http://epistasislab.github.io/tpot/
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn https://automl.github.io/auto-sklearn
+- [H20ai](https://github.com/h2oai/h2o-tutorials) - Tutorials and training material for the H2O Machine Learning Platform
+
 
 #### Data Science Workflows
 - [Data Science Workflows using Docker Containers(YouTube)](https://www.youtube.com/watch?v=oO8n3y23b6M)
