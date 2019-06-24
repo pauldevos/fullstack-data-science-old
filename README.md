@@ -174,7 +174,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [fastai](https://github.com/fastai/fastai) - The fastai deep learning library, plus lessons and and tutorials 
 - [Keras](https://github.com/keras-team/keras)
 - [TensorFlow](https://github.com/tensorflow/tensorflow)
-
+- [keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for humans
 
 
 #### Recommender Systems
