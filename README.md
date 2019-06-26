@@ -206,6 +206,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - scikit pipelines
 - [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - PySpark
+- [Optimus](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with Pyspark https://hioptimus.com
 - [pypeln](https://github.com/cgarciae/pypeln)- Concurrent data pipelines made easy
 - [smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
 - [Blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
