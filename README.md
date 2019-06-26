@@ -125,7 +125,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [NLP Strategy I - Processing and Understanding Text](https://github.com/dipanjanS/practical-machine-learning-with-python/blob/master/bonus%20content/nlp%20proven%20approach/NLP%20Strategy%20I%20-%20Processing%20and%20Understanding%20Text.ipynb)
 - [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
 - [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
-
+- [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) with Python and Cython https://spacy.io
 
 -------------
 
