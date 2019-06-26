@@ -100,7 +100,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 - [Airbnb - Knowledge Repo](https://github.com/airbnb/knowledge-repo) - tag and share analysis
 - [imgkit](https://github.com/jarrekk/imgkit) - Wkhtmltoimage python wrapper to convert html to image
-
+- [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 
 -------------
 
