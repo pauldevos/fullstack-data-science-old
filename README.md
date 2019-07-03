@@ -229,12 +229,13 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 
 #### Web Frameworks
-- [Pyramid](https://github.com/Pylons/pyramid)
+- [Pyramid](https://github.com/Pylons/pyramid) - A Python web framework https://trypyramid.com/
 - [sanic](https://github.com/huge-success/sanic) - Async Python 3.5+ web server that's written to go fast 
 - [Tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
-- [Falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
+- [Falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks. [Docs](https://falconframework.org/)
 - [Vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
+- [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python https://docs.aiohttp.org
 
 #### Networking Tools
 - [uvloop](https://github.com/MagicStack/uvloop) ([article](https://magic.io/blog/uvloop-blazing-fast-python-networking/)) - Ultra fast asyncio event loop (faster than NodeJS, close to Go speed)
