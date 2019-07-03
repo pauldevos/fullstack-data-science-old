@@ -234,6 +234,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [Falcon](https://github.com/falconry/falcon) - Falcon is a bare-metal Python web API framework for building high-performance microservices, app backends, and higher-level frameworks.
 - [Vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
+- [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 
 #### Networking Tools
 - [uvloop](https://github.com/MagicStack/uvloop) ([article](https://magic.io/blog/uvloop-blazing-fast-python-networking/)) - Ultra fast asyncio event loop (faster than NodeJS, close to Go speed)
