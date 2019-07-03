@@ -146,7 +146,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Google's Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 - [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
-- [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders http://contrib.scikit-learn.org/categorical-encoding/
+- [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
 
 #### AutoML
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library. https://mlbox.readthedocs.io/en/latest/
