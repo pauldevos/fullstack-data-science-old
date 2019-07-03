@@ -68,6 +68,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [D3 Tutorials](https://github.com/d3/d3/wiki/Tutorials)
 - [D3 API Reference](https://github.com/d3/d3/blob/master/API.md)
 - [Awesome-D3](https://github.com/wbkd/awesome-d3#charts)
+- [Data Visualization with D3.js, a FreeCodeCamp course](https://www.youtube.com/watch?v=_8V5o2UHG0E)
 
 
 -------------
