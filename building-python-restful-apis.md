@@ -1,5 +1,8 @@
 ## Building Python RESTFul APIs
 
+#### Async vs Sync API: When to do which?
+- [when-to-use-asynchronous-programming](https://stackify.com/when-to-use-asynchronous-programming/)
+
 
 #### Synchronous
 - Flask
