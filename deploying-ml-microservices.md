@@ -88,8 +88,11 @@ Once the estimators and transformer are serialized, we can create a Docker image
 
 
 
+### Deploying ML Models with Go
 
 
+### Pre-trained TensorFlow Models
+- [Github Repo: TensorFlow Models](https://github.com/tensorflow/models)
 ### Docker
 - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
