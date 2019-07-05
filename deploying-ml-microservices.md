@@ -12,7 +12,36 @@
 - Keras
 - Go
 
-1. Train Models in Python, save/serialize models, load it into Go, containerize, and build the API (application). Voila!
+=> Train Models in Python, save/serialize models, load it into Go, containerize, and build the API (application). Voila!
+
+
+-----------
+1. Train the Model (in Python) using Keras, TensorFlow, PyTorch, Scikit-Learn or Spark MLlib
+2. Build the API - Flask, Flask-RESTful, or Go
+3. Test the API
+4. Test webserver - Gunicorn web server
+
+
+
+#### Gunicorn
+
+```python
+gunicorn --workers 1 --timeout 300 --bind 0.0.0.0:8000 api:app
+- workers (INT): The number of worker processes for handling requests.
+- timeout (INT): Workers silent for more than this many seconds are killed and restarted.
+- bind (ADDRESS): The socket to bind. [['127.0.0.1:8000']]
+- api: The main Python file containing the Flask application.
+- app: An instance of the Flask class in the main Python file 'api.py'.
+```
+
+
+
+
+
+
+
+
+
 
 
 
