@@ -13,6 +13,7 @@
 
 
 
+
 ### Popular Methods of Deploying Machine Learning Models to Production
 
 1. Deploy your machine learning model as a REST API using Docker and AWS services like ECR, Sagemaker and Lambda.
@@ -22,8 +23,14 @@
 You will need to save (serialize, e.g. Joblib and Pickle) any estimators or transformers in addition to your model for the API. e.g. anything done to preprocess the data for the model.
 
 
-1. Save the Model
-2. Creating the Dockerfile
+1. Build the Model. Pick your technology, it doesn't really matter. Python, Go, JavaScript, Java, Scala, etc. The main thing is being able to save the model in a serialized format that can be used anywhere.
+2. Create Tests for your model
+3. Save the Model in a serialized format
+
+4. Creating the Dockerfile
+5. Build and Test the Docker container
+6. Figure out the smoke tests/capacity needed (which EC2, ECS, etc size or fleet you need to handle load)
+7. Deploy to Production
 
 
 
