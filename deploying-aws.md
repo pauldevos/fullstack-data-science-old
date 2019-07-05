@@ -7,7 +7,7 @@
 - SSH
 - Roles
 - [VPC Traffic Mirroring – Capture & Inspect Network Traffic](https://aws.amazon.com/blogs/aws/new-vpc-traffic-mirroring/)
-
+- [AWS Docs - Best Practices for Managing AWS Access Keys](https://docs.aws.amazon.com/general/latest/gr/aws-access-keys-best-practices.html)
 ## RDS
 
 
