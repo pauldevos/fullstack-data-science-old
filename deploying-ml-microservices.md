@@ -88,6 +88,14 @@ Once the estimators and transformer are serialized, we can create a Docker image
 
 
 
+### WebServers
+- [Overall Rundown of Python WSGI Servers](https://www.appdynamics.com/blog/engineering/an-introduction-to-python-wsgi-servers-part-1/)
+- [Performance Analytics and Benchmarks of Python WSGI Servers](https://www.appdynamics.com/blog/engineering/a-performance-analysis-of-python-wsgi-servers-part-2/)
+- [Bjoern](https://github.com/jonashaag/bjoern) - describes itself as a “screamingly fast Python WSGI server” and boasts that is “the fastest, smallest and most lightweight WSGI server.”
+- [Gunicorn](https://gunicorn.org/) - It modestly claims that it is “simply implemented, light on server resources, and fairly speedy.” Unlike Bjoern and CerryPy, Gunicorn is a standalone server. 
+- [CherryPy](https://github.com/cherrypy/cherrypy)
+
+
 ### Deploying ML Models with Go
 
 
@@ -100,3 +108,4 @@ Once the estimators and transformer are serialized, we can create a Docker image
 ### Full Picture Resources
 - [A guide to deploying Machine/Deep Learning model(s) in Production](https://blog.usejournal.com/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a)
 - [Exposing Python machine learning models using Flask, Docker and Azure](https://www.martinnorin.se/exposing-python-machine-learning-models-using-flask-docker-and-azure/)
+- [Deploy your Machine Learning model as an API in 5 minutes (with Docker and Flask)](https://medium.com/dataswati-garage/deploy-your-machine-learning-model-as-api-in-5-minutes-with-docker-and-flask-8aa747b1263b)
