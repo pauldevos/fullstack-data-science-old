@@ -20,10 +20,11 @@
 2. Build the API - Flask, Flask-RESTful, or Go
 3. Test the API
 4. Test webserver - Gunicorn web server
+5. Load Balancer - Configure NGINX or AWS ELB, [Example: Serve Apps w/ Flask, Gunicorn, & NGINX](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-16-04)
+6. Load/Performance Testing (Recommended: [Locust](https://github.com/locustio/locust))
 
 
-
-#### Gunicorn
+**Gunicorn**
 
 ```python
 gunicorn --workers 1 --timeout 300 --bind 0.0.0.0:8000 api:app
@@ -34,7 +35,8 @@ gunicorn --workers 1 --timeout 300 --bind 0.0.0.0:8000 api:app
 - app: An instance of the Flask class in the main Python file 'api.py'.
 ```
 
-
+**Load Balancer**
+You can configure `nginx` to handle all the test requests across all the `gunicorn` workers, where each worker has its own API with the DL model. Refer this resource to understand the setup between `nginx` and `gunicorn`.
 
 
 
@@ -89,5 +91,6 @@ Once the estimators and transformer are serialized, we can create a Docker image
 
 
 
-
+### Resources
+- [A guide to deploying Machine/Deep Learning model(s) in Production](https://blog.usejournal.com/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a)
 
