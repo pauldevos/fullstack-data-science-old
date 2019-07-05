@@ -93,4 +93,4 @@ Once the estimators and transformer are serialized, we can create a Docker image
 
 ### Resources
 - [A guide to deploying Machine/Deep Learning model(s) in Production](https://blog.usejournal.com/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a)
-
+- [Exposing Python machine learning models using Flask, Docker and Azure](https://www.martinnorin.se/exposing-python-machine-learning-models-using-flask-docker-and-azure/)
