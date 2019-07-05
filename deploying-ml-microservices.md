@@ -10,6 +10,9 @@
 - Spark MLlib
 - TensorFlow
 - Keras
+- Go
+
+1. Train Models in Python, save/serialize models, load it into Go, containerize, and build the API (application). Voila!
 
 
 
