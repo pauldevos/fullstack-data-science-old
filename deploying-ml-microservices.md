@@ -26,7 +26,7 @@
 
 **Gunicorn**
 
-```python
+```bash
 gunicorn --workers 1 --timeout 300 --bind 0.0.0.0:8000 api:app
 - workers (INT): The number of worker processes for handling requests.
 - timeout (INT): Workers silent for more than this many seconds are killed and restarted.
