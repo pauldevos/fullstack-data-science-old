@@ -104,6 +104,16 @@ Once the estimators and transformer are serialized, we can create a Docker image
 ### Docker
 - [Best practices for writing Dockerfiles](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
+### Async Worker Queue for ML submit requests (Decouples backend)
+- [mlq](https://github.com/tomgrek/mlq) - Asynchronous queue for machine learning jobs
+- Dask
+- Celery
+
+### Tips
+- Use a queue
+- Don’t tie up your backend webserver; separate any ML processes (on it's own server) from the act of serving up assets and endpoints
+- Ensure everything is stateless and able to operate in parallel
+
 
 ### Full Picture Resources
 - [A guide to deploying Machine/Deep Learning model(s) in Production](https://blog.usejournal.com/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a)
