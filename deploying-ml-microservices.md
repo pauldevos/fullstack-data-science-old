@@ -131,3 +131,11 @@ Once the estimators and transformer are serialized, we can create a Docker image
 
 ### Serving ML Models with PySpark
 - [Lightning Fast ML Predictions with PySpark](https://medium.com/homeaway-tech-blog/lightning-fast-ml-predictions-with-pyspark-354c8c5abe83)
+
+
+### Architectures of Microservices
+
+Redis - Docker - Flask - DynamoDB/MongoDb
+
+
+- [Redis](https://github.com/andymccurdy/redis-py)
