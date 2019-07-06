@@ -240,6 +240,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Vibora](https://github.com/vibora-io/vibora) - Fast, asynchronous and elegant Python web framework.
 - [japronto](https://github.com/squeaky-pl/japronto) - Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
 - [aiohttp](https://github.com/aio-libs/aiohttp) - Asynchronous HTTP client/server framework for asyncio and Python https://docs.aiohttp.org
+- [fastapi](https://github.com/tiangolo/fastapi) - FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
 
 #### Networking Tools
 - [uvloop](https://github.com/MagicStack/uvloop) ([article](https://magic.io/blog/uvloop-blazing-fast-python-networking/)) - Ultra fast asyncio event loop (faster than NodeJS, close to Go speed)
