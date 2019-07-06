@@ -99,6 +99,9 @@ Once the estimators and transformer are serialized, we can create a Docker image
 ### Deploying ML Models with Go
 
 
+### Machine Learning Deployment with Kubernetes
+- [seldon-core](https://github.com/SeldonIO/seldon-core) - Machine Learning Deployment for Kubernetes https://www.seldon.io/
+
 ### Pre-trained TensorFlow Models
 - [Github Repo: TensorFlow Models](https://github.com/tensorflow/models)
 ### Docker
@@ -114,9 +117,12 @@ Once the estimators and transformer are serialized, we can create a Docker image
 - Don’t tie up your backend webserver; separate any ML processes (on it's own server) from the act of serving up assets and endpoints
 - Ensure everything is stateless and able to operate in parallel
 
+###
 
-### Full Picture Resources
+### Deployment Process Resources
 - [A guide to deploying Machine/Deep Learning model(s) in Production](https://blog.usejournal.com/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a)
 - [Exposing Python machine learning models using Flask, Docker and Azure](https://www.martinnorin.se/exposing-python-machine-learning-models-using-flask-docker-and-azure/)
 - [Deploy your Machine Learning model as an API in 5 minutes (with Docker and Flask)](https://medium.com/dataswati-garage/deploy-your-machine-learning-model-as-api-in-5-minutes-with-docker-and-flask-8aa747b1263b)
 - [There are two very different ways to deploy ML models, here’s both](https://towardsdatascience.com/there-are-two-very-different-ways-to-deploy-ml-models-heres-both-ce2e97c7b9b1)
+- [Save Machine Learning Model to A File (Part 1)](https://www.mikulskibartosz.name/how-to-save-a-machine-learning-model-into-a-file/)
+- [A comprehensive guide to putting a machine learning model in production using Flask, Docker, and Kubernetes](https://www.mikulskibartosz.name/a-comprehensive-guide-to-putting-a-machine-learning-model-in-production/)
