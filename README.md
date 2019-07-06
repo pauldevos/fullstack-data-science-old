@@ -102,6 +102,10 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Airbnb - Knowledge Repo](https://github.com/airbnb/knowledge-repo) - tag and share analysis
 - [imgkit](https://github.com/jarrekk/imgkit) - Wkhtmltoimage python wrapper to convert html to image
 - [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+- [voila](https://github.com/QuantStack/voila)- From Jupyter notebooks to standalone web applications and dashboards
+
+
+
 
 -------------
 
