@@ -128,6 +128,7 @@ Once the estimators and transformer are serialized, we can create a Docker image
 - [A comprehensive guide to putting a machine learning model in production using Flask, Docker, and Kubernetes](https://www.mikulskibartosz.name/a-comprehensive-guide-to-putting-a-machine-learning-model-in-production/)
 - [Deploying Python ML Models with Flask, Docker and Kubernetes](https://alexioannides.com/2019/01/10/deploying-python-ml-models-with-flask-docker-and-kubernetes/)
 - [Building a spam classifier: PySpark+MLLib vs SageMaker+XGBoost](https://medium.com/@julsimon/building-a-spam-classifier-pyspark-mllib-vs-sagemaker-xgboost-1980158a900f)
+- [Learn to how to create a simple API from a machine learning model in Python using Flask](https://www.datacamp.com/community/tutorials/machine-learning-models-api-python)
 
 ### Serving ML Models with PySpark
 - [Lightning Fast ML Predictions with PySpark](https://medium.com/homeaway-tech-blog/lightning-fast-ml-predictions-with-pyspark-354c8c5abe83)
