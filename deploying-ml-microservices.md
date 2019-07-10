@@ -143,9 +143,17 @@ Redis - Docker - Flask - DynamoDB/MongoDb
 - [Redis](https://github.com/andymccurdy/redis-py), [Redis Tutorial](https://realpython.com/python-redis/?__s=zwqjxatutwooqsxdbtg1)
 
 
+### Linear Algebra
+https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+
+
+
+
 ### Others to Sort out
 https://github.com/kubeflow/pipelines
 https://github.com/kubeflow/examples#end-to-end
 https://www.kubeflow.org/
 https://github.com/SeldonIO/seldon-core
 https://www.seldon.io/
+https://www.notion.so/The-Best-Artificial-Intelligence-Machine-Learning-and-Data-Science-Resources-b3b97fa097b747698e87fd3badc657cf
