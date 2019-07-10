@@ -146,7 +146,8 @@ Redis - Docker - Flask - DynamoDB/MongoDb
 ### Linear Algebra
 https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
-
+### Deep Learning
+- [Fastai v3](https://github.com/fastai/course-v3/tree/master/nbs)
 
 ### PyTorch Tutorials
 https://pytorch.org/tutorials/
