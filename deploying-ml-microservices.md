@@ -141,3 +141,8 @@ Redis - Docker - Flask - DynamoDB/MongoDb
 
 
 - [Redis](https://github.com/andymccurdy/redis-py), [Redis Tutorial](https://realpython.com/python-redis/?__s=zwqjxatutwooqsxdbtg1)
+
+
+### Others to Sort out
+https://github.com/kubeflow/pipelines
+
