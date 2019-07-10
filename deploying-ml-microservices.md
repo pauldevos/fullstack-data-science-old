@@ -148,6 +148,8 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
 
 
 
+### PyTorch Tutorials
+https://pytorch.org/tutorials/
 
 
 ### Others to Sort out
