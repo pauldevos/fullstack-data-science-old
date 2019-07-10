@@ -148,6 +148,7 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
 
 ### Deep Learning
 - [Fastai v3](https://github.com/fastai/course-v3/tree/master/nbs)
+- [Fastai Blog](https://www.fast.ai/)
 
 ### PyTorch Tutorials
 https://pytorch.org/tutorials/
