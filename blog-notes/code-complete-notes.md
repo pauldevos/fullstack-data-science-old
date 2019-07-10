@@ -10,9 +10,11 @@
 1. **Iterate on your designs and repeatedly measure progress**
 
 
+
+-------
+
 0. Problem Statement:
   - “We want to predict building energy demand accurately 7 days in advance to help building engineers prepare for the next week.”
-
 1. POC (Jupyter Notebook)
   - Try to solve for project requirments (e.g. 10% error, 90% success)
   - Perhaps some performance benchmarks (simpler is better for compute)
