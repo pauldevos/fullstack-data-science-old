@@ -20,9 +20,7 @@ But before you get there you will have to build out functions, classes, and modu
 - [Talk Python to Me Podcast #12: Deep Dive into Modules and Packages by David Beazley](https://talkpython.fm/episodes/show/12/deep-dive-into-modules-and-packages)
 
 #### `OOP` - Object Oriented Programming
-
-
-
+- [How To Extend A Class Method](https://stackoverflow.com/questions/25458433/how-to-extend-class-method)
 
 
 
