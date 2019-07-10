@@ -150,6 +150,10 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
 - [Fastai v3](https://github.com/fastai/course-v3/tree/master/nbs)
 - [Fastai Blog](https://www.fast.ai/)
 
+### Deep Learning Hubs
+- [PyTorch Hub](https://pytorch.org/hub)
+- [TensorFlow Hub](https://www.tensorflow.org/hub)
+
 ### PyTorch Tutorials
 https://pytorch.org/tutorials/
 https://forums.fast.ai/t/wiki-thread-intro-workshop/6537
