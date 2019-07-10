@@ -148,3 +148,4 @@ https://github.com/kubeflow/pipelines
 https://github.com/kubeflow/examples#end-to-end
 https://www.kubeflow.org/
 https://github.com/SeldonIO/seldon-core
+https://www.seldon.io/
