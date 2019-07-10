@@ -150,7 +150,7 @@ https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE
 
 ### PyTorch Tutorials
 https://pytorch.org/tutorials/
-
+https://forums.fast.ai/t/wiki-thread-intro-workshop/6537
 
 ### Others to Sort out
 https://github.com/kubeflow/pipelines
