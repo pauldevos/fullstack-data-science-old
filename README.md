@@ -73,20 +73,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 -------------
 #### Notebook Tools
-- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
-- [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 - [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks
-- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks
-- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment
-- [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
-- [jupyterhub](https://github.com/jupyterhub/jupyterhub)
-- [Sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
-- [Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)- [blog](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
-- [PayPal Notebooks, powered by Jupyter: Enabling the next generation of data scientists at scale](https://medium.com/paypal-engineering/paypal-notebooks-powered-by-jupyter-fd0067bd00b0)
-- [PayPal Notebook Extensions](https://github.com/paypal/PPExtensions)
-- [How to write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
-- [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
-- [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook
+
 - [ipyaggrid](https://dgothrek.gitlab.io/ipyaggrid/) ([Features](https://www.ag-grid.com/javascript-grid-features/)) ([Article](https://medium.com/@olivier.borderies/harnessing-the-power-of-ag-grid-in-jupyter-3ae27fb21012)) - Using ag-Grid in Jupyter notebooks
 - [PixieDust](https://github.com/pixiedust/pixiedust) ([YouTube Example](https://www.youtube.com/watch?v=FoOHFlkCaXI)) ([DeBugger article](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)) - Easy Data Visualizer, Debugger, etc for Notebooks
 - [Notebook Kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
@@ -105,7 +93,22 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [voila](https://github.com/QuantStack/voila) - From Jupyter notebooks to standalone web applications and dashboards
 - [nb2xls](https://github.com/ideonate/nb2xls) - Convert Jupyter notebook to Excel spreadsheet
 
+### Notebook Hubs and Extentions
+- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment
+- [jupyterhub](https://github.com/jupyterhub/jupyterhub)
+- [Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - [blog](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231) - [How to write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
+- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
+- [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 
+
+#### Older, less maintained
+- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks
+- [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
+- [Sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
+- [PayPal Notebooks, powered by Jupyter: Enabling the next generation of data scientists at scale](https://medium.com/paypal-engineering/paypal-notebooks-powered-by-jupyter-fd0067bd00b0)
+- [PayPal Notebook Extensions](https://github.com/paypal/PPExtensions)
+- [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
+- [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook
 
 -------------
 
