@@ -146,7 +146,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
-- [ray](https://github.com/ray-project/ray) - A system for parallel and distributed Python that unifies the ML ecosystem. 
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [Metrics](https://github.com/benhamner/Metrics)- Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave
 - [MLtest](https://github.com/Thenerdstation/mltest) - Testing framework to simplify writing ML unit tests.
@@ -218,7 +217,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Pandas-Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 - scikit pipelines
 - [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-- PySpark
+- [ray](https://github.com/ray-project/ray) - A system for parallel and distributed Python that unifies the ML ecosystem. 
+- [Spark](https://spark.apache.org/docs/latest/index.html) - [PySpark API](https://spark.apache.org/docs/latest/api/python/index.html#)
 - [Optimus](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with Pyspark https://hioptimus.com
 - [pypeln](https://github.com/cgarciae/pypeln)- Concurrent data pipelines made easy
 - [smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
