@@ -78,6 +78,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 - [voila](https://github.com/QuantStack/voila) - From Jupyter notebooks to standalone web applications and dashboards
 - [nb2xls](https://github.com/ideonate/nb2xls) - Convert Jupyter notebook to Excel spreadsheet
+- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 
 ### Notebook Hubs and Extentions
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment
@@ -85,7 +86,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - [blog](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231) - [How to write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
-
 
 #### Older, less maintained
 - [ipyaggrid](https://dgothrek.gitlab.io/ipyaggrid/) ([Features](https://www.ag-grid.com/javascript-grid-features/)) ([Article](https://medium.com/@olivier.borderies/harnessing-the-power-of-ag-grid-in-jupyter-3ae27fb21012)) - Using ag-Grid in Jupyter notebooks
@@ -100,7 +100,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Jupyter Notebook Formatting Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 - [Jupyter Notebooks Dashboards Extension](https://jupyter-dashboards-layout.readthedocs.io/en/latest/using.html)
 - [JupyterLab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents Extension
-- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 - [Jupyter Extension Tricks](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
 - [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
 - [Airbnb - Knowledge Repo](https://github.com/airbnb/knowledge-repo) - tag and share analysis
