@@ -87,28 +87,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
 
-#### Older, less maintained
-- [ipyaggrid](https://dgothrek.gitlab.io/ipyaggrid/) ([Features](https://www.ag-grid.com/javascript-grid-features/)) ([Article](https://medium.com/@olivier.borderies/harnessing-the-power-of-ag-grid-in-jupyter-3ae27fb21012)) - Using ag-Grid in Jupyter notebooks
-- [PixieDust](https://github.com/pixiedust/pixiedust) ([YouTube Example](https://www.youtube.com/watch?v=FoOHFlkCaXI)) ([DeBugger article](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)) - [PixieDust 1.0 is here (blog)](https://medium.com/ibm-watson-data-lab/pixiedust-1-0-is-here-15e0f428df88) - Easy Data Visualizer, Debugger, etc for Notebooks
-- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks
-- [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
-- [Sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
-- [PayPal Notebooks, powered by Jupyter: Enabling the next generation of data scientists at scale](https://medium.com/paypal-engineering/paypal-notebooks-powered-by-jupyter-fd0067bd00b0)
-- [PayPal Notebook Extensions](https://github.com/paypal/PPExtensions)
-- [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
-- [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook
-- [Jupyter Notebook Formatting Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
-- [Jupyter Notebooks Dashboards Extension](https://jupyter-dashboards-layout.readthedocs.io/en/latest/using.html)
-- [JupyterLab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents Extension
-- [Jupyter Extension Tricks](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
-- [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
-- [Airbnb - Knowledge Repo](https://github.com/airbnb/knowledge-repo) - tag and share analysis
-- [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
-- [imgkit](https://github.com/jarrekk/imgkit) - Wkhtmltoimage python wrapper to convert html to image
-
-
-
-
 
 -------------
 
@@ -207,6 +185,12 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [black](https://github.com/ambv/black) - The uncompromising Python code formatter
 - [precommit](https://github.com/pre-commit/pre-commit) ([article](https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/)) - A framework for managing and maintaining multi-language pre-commit hooks. (Black + Flake8)
 
+#### Others
+- [wget](https://bitbucket.org/techtonik/python-wget/src) - free utility for non-interactive downloading files from the web
+- [pendulum](https://github.com/sdispater/pendulum) - Python datetime manipulation made easy
+- [python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers.
+- [sqlparse](https://github.com/andialbrecht/sqlparse) - sql parsing tool
+- [credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
 
 #### Database Connectors
 - [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
@@ -292,14 +276,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### GUIs
 - [PySimpleGUI](https://github.com/MikeTheWatchGuy/PySimpleGUI)
 
-
-#### Others
-- [wget](https://bitbucket.org/techtonik/python-wget/src) - free utility for non-interactive downloading files from the web
-- [pendulum](https://github.com/sdispater/pendulum) - Python datetime manipulation made easy
-- [python-dotenv](https://github.com/theskumar/python-dotenv) - Get and set values in your .env file in local and production servers.
-- [sqlparse](https://github.com/andialbrecht/sqlparse) - sql parsing tool
-- [credstash](https://github.com/fugue/credstash) - A little utility for managing credentials in the cloud
-
 ### Courses
 ----------
 
@@ -383,12 +359,37 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [awesome-datascience](https://github.com/bulutyazilim/awesome-datascience)
 - [awesome-flask](https://github.com/humiaozuzu/awesome-flask#full-text-searching)
 
-- [Data Science Blogs](https://github.com/rushter/data-science-blogs)
-
-- [Drag and Drop JS](https://github.com/SortableJS/Sortable)
-- [Proejcts](https://github.com/karan/Projects/) - [Project Solutions](https://github.com/karan/Projects-Solutions)
-- [project-based-learning#python](https://github.com/tuvtran/project-based-learning#python)
 
 
 #### NBA Shot Charts
 - [nbashots](https://github.com/savvastj/nbashots) - NBA shot charts using matplotlib, seaborn, and bokeh.
+
+
+
+------------
+
+#### More Random Packages
+- [Data Science Blogs](https://github.com/rushter/data-science-blogs)
+- [Drag and Drop JS](https://github.com/SortableJS/Sortable)
+- [Projects](https://github.com/karan/Projects/) - [Project Solutions](https://github.com/karan/Projects-Solutions)
+- [project-based-learning#python](https://github.com/tuvtran/project-based-learning#python)
+
+
+#### Notebook tools -- Older, less maintained
+- [ipyaggrid](https://dgothrek.gitlab.io/ipyaggrid/) ([Features](https://www.ag-grid.com/javascript-grid-features/)) ([Article](https://medium.com/@olivier.borderies/harnessing-the-power-of-ag-grid-in-jupyter-3ae27fb21012)) - Using ag-Grid in Jupyter notebooks
+- [PixieDust](https://github.com/pixiedust/pixiedust) ([YouTube Example](https://www.youtube.com/watch?v=FoOHFlkCaXI)) ([DeBugger article](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)) - [PixieDust 1.0 is here (blog)](https://medium.com/ibm-watson-data-lab/pixiedust-1-0-is-here-15e0f428df88) - Easy Data Visualizer, Debugger, etc for Notebooks
+- [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks
+- [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
+- [Sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
+- [PayPal Notebooks, powered by Jupyter: Enabling the next generation of data scientists at scale](https://medium.com/paypal-engineering/paypal-notebooks-powered-by-jupyter-fd0067bd00b0)
+- [PayPal Notebook Extensions](https://github.com/paypal/PPExtensions)
+- [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
+- [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook
+- [Jupyter Notebook Formatting Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+- [Jupyter Notebooks Dashboards Extension](https://jupyter-dashboards-layout.readthedocs.io/en/latest/using.html)
+- [JupyterLab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents Extension
+- [Jupyter Extension Tricks](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
+- [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
+- [Airbnb - Knowledge Repo](https://github.com/airbnb/knowledge-repo) - tag and share analysis
+- [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
+- [imgkit](https://github.com/jarrekk/imgkit) - Wkhtmltoimage python wrapper to convert html to image
