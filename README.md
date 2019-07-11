@@ -74,14 +74,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 -------------
 #### Notebook Tools
 - [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks
-
-- [ipyaggrid](https://dgothrek.gitlab.io/ipyaggrid/) ([Features](https://www.ag-grid.com/javascript-grid-features/)) ([Article](https://medium.com/@olivier.borderies/harnessing-the-power-of-ag-grid-in-jupyter-3ae27fb21012)) - Using ag-Grid in Jupyter notebooks
-- [PixieDust](https://github.com/pixiedust/pixiedust) ([YouTube Example](https://www.youtube.com/watch?v=FoOHFlkCaXI)) ([DeBugger article](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)) - Easy Data Visualizer, Debugger, etc for Notebooks
 - [Notebook Kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
-- [PixieDust 1.0 is here (blog)](https://medium.com/ibm-watson-data-lab/pixiedust-1-0-is-here-15e0f428df88)
-- [Jupyter Notebook Formatting Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
-- [Jupyter Notebooks Dashboards Extension](https://jupyter-dashboards-layout.readthedocs.io/en/latest/using.html)
-- [JupyterLab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents Extension
+
+
 - [Jupyter Extensions - Productivity](https://towardsdatascience.com/jupyter-tools-to-increase-productivity-7b3c6b90be09) ([Docs](https://github.com/ipython-contrib/jupyter_contrib_nbextensions))
 - [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 - [Jupyter Extension Tricks](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
@@ -102,6 +97,8 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 
 #### Older, less maintained
+- [ipyaggrid](https://dgothrek.gitlab.io/ipyaggrid/) ([Features](https://www.ag-grid.com/javascript-grid-features/)) ([Article](https://medium.com/@olivier.borderies/harnessing-the-power-of-ag-grid-in-jupyter-3ae27fb21012)) - Using ag-Grid in Jupyter notebooks
+- [PixieDust](https://github.com/pixiedust/pixiedust) ([YouTube Example](https://www.youtube.com/watch?v=FoOHFlkCaXI)) ([DeBugger article](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62)) - [PixieDust 1.0 is here (blog)](https://medium.com/ibm-watson-data-lab/pixiedust-1-0-is-here-15e0f428df88) - Easy Data Visualizer, Debugger, etc for Notebooks
 - [nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks
 - [nteract](https://github.com/nteract/nteract) - The interactive computing suite for you! 
 - [Sparkmagic](https://github.com/jupyter-incubator/sparkmagic) - Jupyter magics and kernels for working with remote Spark clusters
@@ -109,6 +106,17 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [PayPal Notebook Extensions](https://github.com/paypal/PPExtensions)
 - [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line) in Jupyter Notebook cells.
 - [py_d3](https://github.com/ResidentMario/py_d3) - D3 block magic for Jupyter notebook
+- [Jupyter Notebook Formatting Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+- [Jupyter Notebooks Dashboards Extension](https://jupyter-dashboards-layout.readthedocs.io/en/latest/using.html)
+- [JupyterLab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents Extension
+
+
+
+
+
+
+
+
 
 -------------
 
