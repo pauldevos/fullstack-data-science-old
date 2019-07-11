@@ -141,16 +141,17 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 -------------
 
 #### Machine Learning Libraries
+- [Lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
+- [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
+- [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
-- [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
 - [ray](https://github.com/ray-project/ray) - A system for parallel and distributed Python that unifies the ML ecosystem. 
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
 - [Metrics](https://github.com/benhamner/Metrics)- Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave
 - [MLtest](https://github.com/Thenerdstation/mltest) - Testing framework to simplify writing ML unit tests.
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 - [featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering
-- [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
 - [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 - [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning)
