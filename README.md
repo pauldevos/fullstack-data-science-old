@@ -131,6 +131,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
 - [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 - [spaCy](https://github.com/explosion/spaCy) - Industrial-strength Natural Language Processing (NLP) with Python and Cython https://spacy.io
+- [xlnet](https://github.com/zihangdai/xlnet) - XLNet: Generalized Autoregressive Pretraining for Language Understanding
+- [xlnet-Pytorch](https://github.com/graykode/xlnet-Pytorch) - Simple XLNet implementation with Pytorch Wrapper https://arxiv.org/pdf/1906.08237.pdf
+
 
 -------------
 
