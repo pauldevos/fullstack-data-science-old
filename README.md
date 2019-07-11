@@ -24,9 +24,6 @@ Popular Python APIs (with code examples)
 A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [gmaps](https://jupyter-gmaps.readthedocs.io/en/stable/tutorial.html) - Google Maps For Jupyter Notebooks
 - [vaex](https://vaex.io/) - Lazy Out-of-Core DataFrames for Python. Visualize a billion rows per second on a single computer.
-- [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - WebRTC for Jupyter notebook/lab
-- [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) ([Notebook Example](https://github.com/Chekos/blog-posts/tree/master/altair%20%2B%20ipywidgets))- Interactive Widgets for the Jupyter Notebook
-- [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive Jupyter widgets to visualize images in 2D and 3D.
 - [scattertext](https://github.com/JasonKessler/scattertext) - Beautiful visualizations of how language differs among document types.
 - [missingno](https://github.com/ResidentMario/missingno) - Visualize missing data
 - [pygal](https://github.com/Kozea/pygal) - Python svg Graph plotting Library
@@ -75,15 +72,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### Notebook Tools
 - [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks
 - [Notebook Kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
-
-
-- [Jupyter Extensions - Productivity](https://towardsdatascience.com/jupyter-tools-to-increase-productivity-7b3c6b90be09) ([Docs](https://github.com/ipython-contrib/jupyter_contrib_nbextensions))
-- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
-- [Jupyter Extension Tricks](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
-- [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
-- [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
-- [Airbnb - Knowledge Repo](https://github.com/airbnb/knowledge-repo) - tag and share analysis
-- [imgkit](https://github.com/jarrekk/imgkit) - Wkhtmltoimage python wrapper to convert html to image
+- [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - WebRTC for Jupyter notebook/lab
+- [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) ([Notebook Example](https://github.com/Chekos/blog-posts/tree/master/altair%20%2B%20ipywidgets))- Interactive Widgets for the Jupyter Notebook
+- [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive Jupyter widgets to visualize images in 2D and 3D.
 - [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 - [voila](https://github.com/QuantStack/voila) - From Jupyter notebooks to standalone web applications and dashboards
 - [nb2xls](https://github.com/ideonate/nb2xls) - Convert Jupyter notebook to Excel spreadsheet
@@ -109,10 +100,12 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Jupyter Notebook Formatting Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 - [Jupyter Notebooks Dashboards Extension](https://jupyter-dashboards-layout.readthedocs.io/en/latest/using.html)
 - [JupyterLab-toc](https://github.com/jupyterlab/jupyterlab-toc) - Table of Contents Extension
-
-
-
-
+- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
+- [Jupyter Extension Tricks](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
+- [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
+- [Airbnb - Knowledge Repo](https://github.com/airbnb/knowledge-repo) - tag and share analysis
+- [Advanced Jupyter Notebooks: A Tutorial](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
+- [imgkit](https://github.com/jarrekk/imgkit) - Wkhtmltoimage python wrapper to convert html to image
 
 
 
