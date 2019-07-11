@@ -276,19 +276,14 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### GUIs
 - [PySimpleGUI](https://github.com/MikeTheWatchGuy/PySimpleGUI)
 
-### Courses
-----------
 
-#### Deep Learning Courses
-- [Fast.ai](https://course.fast.ai/index.html)
 
 #### Repeatable Python Workflows in Notebooks
 - [Building a Repeatable Data Analysis Process with Jupyter Notebooks](http://pbpython.com/notebook-process.html)
 
-#### Deploying Machine Learning Projects
+#### Prototyping Projects
 - [Learn to Build Machine Learning Services, Prototype Real Applications, and Deploy your Work to Users](https://towardsdatascience.com/learn-to-build-machine-learning-services-prototype-real-applications-and-deploy-your-work-to-aa97b2b09e0c)
 - [Combining D3 with Kedion: Graduating from Toy Visuals to Real Applications](https://towardsdatascience.com/combining-d3-with-kedion-graduating-from-toy-visuals-to-real-applications-92bf7c3cc713)
-- [World of Data Science](http://www.worldofdatascience.com/index.html)
 - [Learning How to Build a Web Application](https://medium.com/@rchang/learning-how-to-build-a-web-application-c5499bd15c8f)
 
 
@@ -365,6 +360,12 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [nbashots](https://github.com/savvastj/nbashots) - NBA shot charts using matplotlib, seaborn, and bokeh.
 
 
+----------
+## Courses
+
+
+#### Deep Learning Courses
+- [Fast.ai](https://course.fast.ai/index.html)
 
 ------------
 
