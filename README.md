@@ -95,6 +95,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [voila](https://github.com/QuantStack/voila) - From Jupyter notebooks to standalone web applications and dashboards
 - [nb2xls](https://github.com/ideonate/nb2xls) - Convert Jupyter notebook to Excel spreadsheet
 - [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
+- [StackOverflow - R & Python in One Jupyter Notebook %%R](https://stackoverflow.com/questions/39008069/r-and-python-in-one-jupyter-notebook)
 
 ### Notebook Hubs and Extentions
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment
