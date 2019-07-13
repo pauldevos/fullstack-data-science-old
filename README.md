@@ -15,6 +15,7 @@ Popular Python APIs (with code examples)
 - [missingno](https://github.com/ResidentMario/missingno) - Visualize missing data
 - [Holoviews](https://github.com/ioam/holoviews) - With Holoviews, your data visualizes itself
 - [altair](https://altair-viz.github.io/index.html) - ([Github](https://github.com/altair-viz/altair)) - Declarative statistical visualization library for Python
+- [Pandas Styling](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html) - [Mode Blog](https://mode.com/example-gallery/python_dataframe_styling/)
 
 
 
