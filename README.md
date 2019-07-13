@@ -9,12 +9,27 @@ Popular Python APIs (with code examples)
 ### Python Libraries
 --------------
 
-#### Data Visualization
+#### My Favorite Tools
+- [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. http://www.scikit-yb.org/
+- [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
+- [missingno](https://github.com/ResidentMario/missingno) - Visualize missing data
+
+
+
+
+
+
+#### Data Visualization -- Available Charts and Which Should I Choose?
 - [Python Graph Gallery](https://python-graph-gallery.com/)
 - [Top 50 matplotlib Visualizations – The Master Plots](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
 - [From Data to Viz - Graphing Decisions - code in R](https://www.data-to-viz.com/)
+- [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
+- [Policy Viz - DataViz Books](https://policyviz.com/better-presentations/data-viz-resources/data-viz-books/)
 - [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/)
 - [Observable - D3 and Other Data Vizualizations](https://beta.observablehq.com/)
+
+
+#### Data Visualization
 - [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. http://www.scikit-yb.org/
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
@@ -48,8 +63,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Holoviews](https://github.com/ioam/holoviews) - With Holoviews, your data visualizes itself
 - [DataShader](http://datashader.org/) - uses Dask and Numba to visualize huge data sets
 - [Graph-Tool](https://graph-tool.skewed.de/) - Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks)
-- [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
-- [Policy Viz - DataViz Books](https://policyviz.com/better-presentations/data-viz-resources/data-viz-books/)
 - [Vispy](https://github.com/vispy/vispy)
 - [Panel](https://github.com/pyviz/panel) - A high-level Python toolkit for composing widgets and plots https://panel.pyviz.org
 - [jupyter-matplotlib](https://github.com/matplotlib/jupyter-matplotlib/) - Matplotlib Jupyter Extension
