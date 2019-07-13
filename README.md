@@ -16,6 +16,7 @@ Popular Python APIs (with code examples)
 - [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/)
 - [Observable - D3 and Other Data Vizualizations](https://beta.observablehq.com/)
 - [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. http://www.scikit-yb.org/
+- [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 3d plotting for Python in the Jupyter notebook based on IPython widgets using WebGL
 - [Dash](https://dash.plot.ly/) - Written on top of Flask, Plotly.js, and React.js, Dash can be used for highly custom user interfaces in Python
 - [Chartify](https://github.com/spotify/chartify/) - Same interface for plots with a goal to make it easy to use Bokeh plots.
