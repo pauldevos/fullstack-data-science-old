@@ -74,7 +74,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [ipysheet](https://github.com/QuantStack/ipysheet) - Jupyter handsontable integration
 - [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - WebRTC for Jupyter notebook/lab
 - [weasyprint](https://github.com/Kozea/WeasyPrint) - WeasyPrint converts web documents (HTML with CSS, SVG, …) to PDF. https://weasyprint.org/ ([Creating PDF Reports with Pandas, Jinja and WeasyPrint](https://pbpython.com/pdf-reports.html))
-
+- [PySal](https://github.com/pysal/pysal) - PySAL: Python Spatial Analysis Library http://pysal.org
 
 #### Data
 - [Our World in Data](https://ourworldindata.org/) - data visualizations of many things around the world
