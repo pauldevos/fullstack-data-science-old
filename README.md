@@ -13,8 +13,8 @@ Popular Python APIs (with code examples)
 - [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. http://www.scikit-yb.org/
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
 - [missingno](https://github.com/ResidentMario/missingno) - Visualize missing data
-
-
+- [Holoviews](https://github.com/ioam/holoviews) - With Holoviews, your data visualizes itself
+- [altair](https://altair-viz.github.io/index.html) - ([Github](https://github.com/altair-viz/altair)) - Declarative statistical visualization library for Python
 
 
 
@@ -61,8 +61,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Generate HTML reports with D3 graphs using Python, Plotly, and Pandas](https://nbviewer.jupyter.org/gist/jackparmer/7d27637328a93e6d699b)
 - [AnatomyOfMatplotlib (Tutorial)](https://github.com/matplotlib/AnatomyOfMatplotlib) - Anatomy of Matplotlib -- tutorial developed for the SciPy conference
 - [pyLDAvis](https://github.com/bmabey/pyLDAvis) - Python library for interactive topic model visualization. Port of the R LDAvis package
-- [altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
-- [Holoviews](https://github.com/ioam/holoviews) - With Holoviews, your data visualizes itself
 - [DataShader](http://datashader.org/) - uses Dask and Numba to visualize huge data sets
 - [Graph-Tool](https://graph-tool.skewed.de/) - Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks)
 - [Vispy](https://github.com/vispy/vispy)
