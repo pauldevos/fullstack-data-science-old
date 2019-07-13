@@ -29,6 +29,7 @@ Popular Python APIs (with code examples)
 - [Python Plotting for Exploratory Data Analysis](http://pythonplot.com/)
 - [Observable - D3 and Other Data Vizualizations](https://beta.observablehq.com/)
 - [Our World in Data (Visualizations)](https://ourworldindata.org/)
+- [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/)
 
 
 #### Data Visualization
