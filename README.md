@@ -34,6 +34,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
 - [Bokeh Tutorial](https://github.com/bokeh/bokeh-notebooks/tree/master/tutorial)
 - [Bokeh](https://bokeh.pydata.org/en/latest/docs/user_guide.html#userguide)
+- [Responsive Bar Charts with Bokeh, Flask and Python 3](https://www.fullstackpython.com/blog/responsive-bar-charts-bokeh-flask-python-3.html)
 - [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
 - [Superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [NetworkX](https://github.com/networkx/networkx) - NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
