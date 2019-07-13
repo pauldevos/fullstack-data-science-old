@@ -51,7 +51,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [geoplotlib](https://github.com/andrea-cuttone/geoplotlib) - python toolbox for visualizing geographical data and making maps
 - [gleam](https://github.com/dgrtwo/gleam) - Creating interactive visualizations with Python
 - [geonotebook](https://github.com/OpenGeoscience/geonotebook) - A Jupyter notebook extension for geospatial visualization and analysis
-- [Bokeh Tutorial](https://github.com/bokeh/bokeh-notebooks/tree/master/tutorial)
+- [Bokeh Tutorial (Notebooks)](https://github.com/bokeh/bokeh-notebooks/tree/master/tutorial)
 - [Bokeh](https://bokeh.pydata.org/en/latest/docs/user_guide.html#userguide)
 - [Responsive Bar Charts with Bokeh, Flask and Python 3](https://www.fullstackpython.com/blog/responsive-bar-charts-bokeh-flask-python-3.html)
 - [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
