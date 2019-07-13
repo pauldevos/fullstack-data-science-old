@@ -57,6 +57,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Seaborn](http://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 - [ggpy](https://github.com/yhat/ggpy) - ggplot for Python
 - [Matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
+- [Effectively Using Matplotlib](https://pbpython.com/effective-matplotlib.html)
 - [Plotly](https://github.com/plotly/plotly.py) - An open-source, interactive graphing library for Python
 - [Generate HTML reports with D3 graphs using Python, Plotly, and Pandas](https://nbviewer.jupyter.org/gist/jackparmer/7d27637328a93e6d699b)
 - [AnatomyOfMatplotlib (Tutorial)](https://github.com/matplotlib/AnatomyOfMatplotlib) - Anatomy of Matplotlib -- tutorial developed for the SciPy conference
