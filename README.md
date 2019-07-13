@@ -55,6 +55,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Bokeh](https://bokeh.pydata.org/en/latest/docs/user_guide.html#userguide)
 - [Responsive Bar Charts with Bokeh, Flask and Python 3](https://www.fullstackpython.com/blog/responsive-bar-charts-bokeh-flask-python-3.html)
 - [Dash](https://github.com/plotly/dash) - Analytical Web Apps for Python. No JavaScript Required.
+- [Creating Interactive Visualizations with Plotly’s Dash Framework](https://pbpython.com/plotly-dash-intro.html)
 - [Superset](https://github.com/apache/incubator-superset) - Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 - [NetworkX](https://github.com/networkx/networkx) - NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 - [Seaborn](http://seaborn.pydata.org/) - Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
