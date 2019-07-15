@@ -193,6 +193,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [TensorFlow](https://github.com/tensorflow/tensorflow)
 - [keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for humans
 - [Visdom](https://github.com/facebookresearch/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
+- [talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models
 
 #### Recommender Systems
 - [list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
