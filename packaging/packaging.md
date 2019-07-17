@@ -4,8 +4,14 @@ The best "all-in-one" source for information on creating and publishing Python p
 [A Tour of Python Packaging](https://manikos.github.io/a-tour-on-python-packaging#python-packaging-related-podcasts)
 however if you want more broken down approach I'll try to put that in headers below.
 
-#### Building a Package for Pypi
+
+### Process for Your Python Projects
+- [10 Steps to Set Up Your Python Project for Success](https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13)
+
+#### Building a Package
 - [How To Publish A Package On PyPI](https://www.youtube.com/watch?v=QgZ7qv4Cd0Y)
+- [Build Your First Open Source Python Project](https://towardsdatascience.com/build-your-first-open-source-python-project-53471c9942a7)
+
 
 But before you get there you will have to build out functions, classes, and modules. Here's a bit more on how to do that.
 
