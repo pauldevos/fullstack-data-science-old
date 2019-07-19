@@ -2,7 +2,20 @@
 
 
 #### Where To Start
-- [Docker - Get Started](https://docs.docker.com/get-started/)
+Go through the official Docker tutorial. It's not heavily tailored towards Data Science use cases, but it's very valuable to give you a full rundown of Docker from image to container to deploying and managing multiple containers with Docker Swarm. [Docker - Get Started](https://docs.docker.com/get-started/) 
+
+
+
+
+### Docker Stacks
+- [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks)
+- [docker-for-data-science-tutorial](https://github.com/docker-for-data-science/docker-for-data-science-tutorial)
+
+
+### Other Example Dockerfiles for Data Science
+- [docker-data-science](https://github.com/bobbywlindsey/docker-data-science)
+- [Docker for Data Scientists](https://towardsdatascience.com/docker-for-data-scientists-5732501f0ba4)
+
 
 
 #### Container Services - When You Need To Productionize Large Web Applications
