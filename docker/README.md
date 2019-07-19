@@ -60,7 +60,7 @@ docker run username/repository:tag                   # Run image from a registry
 
 ### Docker-Compose
 
-```bash
+```yaml
 version: "3"
 services:
   web:
