@@ -7,3 +7,4 @@
 
 ### Other Example Dockerfiles for Data Science
 - [docker-data-science](https://github.com/bobbywlindsey/docker-data-science)
+- [Docker for Data Scientists](https://towardsdatascience.com/docker-for-data-scientists-5732501f0ba4)
