@@ -2,7 +2,7 @@
 
 
 #### Where To Start
-Go through the official Docker tutorial. It's not heavily tailored towards Data Science use cases, but it's very valuable to give you a full rundown of Docker from image to container to deploying and managing multiple containers with Docker Swarm. [Docker - Get Started](https://docs.docker.com/get-started/) 
+Go through the official Docker tutorial. It's not heavily tailored towards Data Science use cases, but it's very valuable to give you a full rundown of Docker from image to container to deploying and managing multiple containers with Docker Swarm. => [Docker - Get Started](https://docs.docker.com/get-started/) 
 
 
 
