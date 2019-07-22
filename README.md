@@ -26,6 +26,7 @@ Popular Python APIs (with code examples)
 - [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
 - [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
 - [interpretable_machine_learning_with_python](https://github.com/jphall663/interpretable_machine_learning_with_python) - Practical techniques for training interpretable ML models, explaining ML models, and debugging ML models.
+- [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome machine learning interpretability resources.
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
 - [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
