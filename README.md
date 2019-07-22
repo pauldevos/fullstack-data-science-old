@@ -19,7 +19,48 @@ Popular Python APIs (with code examples)
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 
 
+------------
 
+#### Machine Learning Libraries
+- [Lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
+- [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
+- [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
+- [interpretable_machine_learning_with_python](https://github.com/jphall663/interpretable_machine_learning_with_python) - Practical techniques for training interpretable ML models, explaining ML models, and debugging ML models.
+- [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
+- [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
+- [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
+- [Metrics](https://github.com/benhamner/Metrics)- Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave
+- [MLtest](https://github.com/Thenerdstation/mltest) - Testing framework to simplify writing ML unit tests.
+- [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
+- [featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering
+- [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
+- [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+- [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning)
+- [Google's Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+- [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
+- [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
+
+#### AutoML
+- [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library. https://mlbox.readthedocs.io/en/latest/
+- [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. http://epistasislab.github.io/tpot/
+- [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn https://automl.github.io/auto-sklearn
+- [H20ai](https://github.com/h2oai/h2o-tutorials) - Tutorials and training material for the H2O Machine Learning Platform
+- [adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees. https://adanet.readthedocs.io
+
+#### Data Science Workflows
+- [Data Science Workflows using Docker Containers(YouTube)](https://www.youtube.com/watch?v=oO8n3y23b6M)
+- [How Docker Can Make You A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
+
+#### Statistics
+- [pgmpy](https://github.com/pgmpy/pgmpy) - [Notebook tutorials](https://github.com/pgmpy/pgmpy/tree/dev/examples) - Python Library for Probabilistic Graphical Models
+- [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
+- [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
+- [PyMC3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
+- [Intro2Stats (Tutorial)](https://github.com/rouseguy/intro2stats/tree/master/notebooks)
+- [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
+
+------------
 
 #### Data Visualization -- Inspiration and Answers
 - [Python Graph Gallery](https://python-graph-gallery.com/)
@@ -80,17 +121,21 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### Data
 - [Our World in Data](https://ourworldindata.org/) - data visualizations of many things around the world
 
-
 -------------
-#### D3
 
-- [Hitchhiker's Guide to D3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
-- [D3 Charts and Chartbuilder](https://blockbuilder.org/search)
-- [D3 Tutorials](https://github.com/d3/d3/wiki/Tutorials)
-- [D3 API Reference](https://github.com/d3/d3/blob/master/API.md)
-- [Awesome-D3](https://github.com/wbkd/awesome-d3#charts)
-- [Data Visualization with D3.js, a FreeCodeCamp course](https://www.youtube.com/watch?v=_8V5o2UHG0E)
-
+#### Data Pipeline Tools
+- [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
+- [Modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code 
+- [Pandas-Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
+- [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling
+- [ray](https://github.com/ray-project/ray) - A system for parallel and distributed Python that unifies the ML ecosystem. 
+- [Spark](https://spark.apache.org/docs/latest/index.html) - [PySpark API](https://spark.apache.org/docs/latest/api/python/index.html#)
+- [Optimus](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with Pyspark https://hioptimus.com
+- [pypeln](https://github.com/cgarciae/pypeln)- Concurrent data pipelines made easy
+- [smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
+- [Blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
+- [Faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
+- [Kedro](https://github.com/quantumblacklabs/kedro) - A Python library for building robust production-ready data and analytics pipelines
 
 -------------
 #### Notebook Tools
@@ -106,12 +151,40 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [StackOverflow - R & Python in One Jupyter Notebook %%R](https://stackoverflow.com/questions/39008069/r-and-python-in-one-jupyter-notebook)
 - [RISE](https://github.com/damianavila/RISE) - RISE allows you to instantly turn your Jupyter Notebooks into a slideshow. No out-of-band conversion is needed, switch from jupyter notebook to a live reveal.js-based slideshow in a single keystroke, and back.
 
-### Notebook Hubs and Extentions
+### Jupyter Notebook Hubs and Extentions
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment
 - [jupyterhub](https://github.com/jupyterhub/jupyterhub)
 - [Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - [blog](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231) - [How to write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
 - [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
 - [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
+
+-------------
+
+#### Linear Algebra
+- numpy
+- [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
+
+#### Python Data Science Books
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [fast.ai](https://www.fast.ai/) - The fastai deep learning library, plus lessons and and tutorials http://docs.fast.ai
+- [fast.ai - Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
+- [Deep-Learning-101](https://github.com/emilwallner/Deep-Learning-101)
+- [Agile Data Science 2.0](https://github.com/rjurney/Agile_Data_Code_2)
+- [Introduction to Statistics With Python](https://github.com/thomas-haslwanter/statsintro_python)
+- [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
+- [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- [ISLR](http://www-bcf.usc.edu/~gareth/ISL/) -  [ISLR in Python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
+- [Coursera ML - Andrew Ng in Python](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
+- [Think Python 2nd ed](https://github.com/AllenDowney/ThinkPython2)
+- [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
+- [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+- [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python - Sebastian Raschka](https://github.com/rasbt/deep-learning-book)
+- [Python Machine Learning (2nd edition) - Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- [Pattern Classification - Sebastian Raschka](https://github.com/rasbt/pattern_classification)
+- [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
+- [Make Your Own Neural Network](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
+- [Learning AI if you Suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 
 
 -------------
@@ -143,44 +216,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 
 
 -------------
-
-#### Machine Learning Libraries
-- [Lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
-- [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
-- [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
-- [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
-- [Surprise](https://github.com/NicolasHug/Surprise) - A Python scikit for building and analyzing recommender systems
-- [kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
-- [Metrics](https://github.com/benhamner/Metrics)- Machine learning evaluation metrics, implemented in Python, R, Haskell, and MATLAB / Octave
-- [MLtest](https://github.com/Thenerdstation/mltest) - Testing framework to simplify writing ML unit tests.
-- [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
-- [featuretools](https://github.com/Featuretools/featuretools) - An open source python framework for automated feature engineering
-- [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
-- [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-- [Learning Math for Machine Learning](https://blog.ycombinator.com/learning-math-for-machine-learning)
-- [Google's Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml/)
-- [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-- [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
-- [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
-
-#### AutoML
-- [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library. https://mlbox.readthedocs.io/en/latest/
-- [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. http://epistasislab.github.io/tpot/
-- [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn https://automl.github.io/auto-sklearn
-- [H20ai](https://github.com/h2oai/h2o-tutorials) - Tutorials and training material for the H2O Machine Learning Platform
-- [adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees. https://adanet.readthedocs.io
-
-#### Data Science Workflows
-- [Data Science Workflows using Docker Containers(YouTube)](https://www.youtube.com/watch?v=oO8n3y23b6M)
-- [How Docker Can Make You A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
-
-#### Statistics
-- [pgmpy](https://github.com/pgmpy/pgmpy) - [Notebook tutorials](https://github.com/pgmpy/pgmpy/tree/dev/examples) - Python Library for Probabilistic Graphical Models
-- [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
-- [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
-- [PyMC3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
-- [Intro2Stats (Tutorial)](https://github.com/rouseguy/intro2stats/tree/master/notebooks)
-- [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
 
 #### Deep Learning Tools
 - [Pyro](http://pyro.ai/examples/) - Pyro is a flexible, scalable deep probabilistic programming library built on PyTorch
@@ -222,33 +257,12 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 #### Database Connectors
 - [graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 
-#### Data Pipeline Tools
-- [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [Modin](https://github.com/modin-project/modin) - Modin: Speed up your Pandas workflows by changing a single line of code 
-- [Pandas-Profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
-- scikit pipelines
-- [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling
-- [ray](https://github.com/ray-project/ray) - A system for parallel and distributed Python that unifies the ML ecosystem. 
-- [Spark](https://spark.apache.org/docs/latest/index.html) - [PySpark API](https://spark.apache.org/docs/latest/api/python/index.html#)
-- [Optimus](https://github.com/ironmussa/Optimus) - Agile Data Science Workflows made easy with Pyspark https://hioptimus.com
-- [pypeln](https://github.com/cgarciae/pypeln)- Concurrent data pipelines made easy
-- [smart_open](https://github.com/RaRe-Technologies/smart_open) - Utils for streaming large files (S3, HDFS, gzip, bz2...)
-- [Blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
-- [Faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
-- [Kedro](https://github.com/quantumblacklabs/kedro) - A Python library for building robust production-ready data and analytics pipelines
-
-
 #### Pub-Sub, Message Queues, Streaming
 - [kq](https://github.com/joowani/kq) - Kafka-based Job Queue for Python
 - [sockets]()
 - [pykafka](https://github.com/Parsely/pykafka) - Apache Kafka client for Python; high-level & low-level consumer/producer, with great performance. 
 - [awesome-kafka](https://github.com/infoslack/awesome-kafka) - A list about Apache Kafka
 - [How to Stream Text Data from Twitch with Sockets in Python](https://learndatasci.com/tutorials/how-stream-text-data-twitch-sockets-python/)
-
-#### Linear Algebra
-- numpy
-- [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
-
 
 #### Web Frameworks [Some Benchmarks](https://github.com/the-benchmarker/web-frameworks)
 - [Pyramid](https://github.com/Pylons/pyramid) - A Python web framework https://trypyramid.com/
@@ -282,6 +296,16 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
  - [pweave](http://mpastell.com/pweave/) - Pweave is a scientific report generator and a literate programming tool for Python. It can capture the results and plots from data analysis and works well with numpy, scipy and matplotlib.
 
 
+-------------
+#### D3
+
+- [Hitchhiker's Guide to D3.js](https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a)
+- [D3 Charts and Chartbuilder](https://blockbuilder.org/search)
+- [D3 Tutorials](https://github.com/d3/d3/wiki/Tutorials)
+- [D3 API Reference](https://github.com/d3/d3/blob/master/API.md)
+- [Awesome-D3](https://github.com/wbkd/awesome-d3#charts)
+- [Data Visualization with D3.js, a FreeCodeCamp course](https://www.youtube.com/watch?v=_8V5o2UHG0E)
+
 #### APIs
 - [Tweepy](https://github.com/tweepy/tweepy)
 
@@ -302,7 +326,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
  
 #### GUIs
 - [PySimpleGUI](https://github.com/MikeTheWatchGuy/PySimpleGUI)
-
 
 
 #### Repeatable Python Workflows in Notebooks
@@ -331,28 +354,6 @@ https://github.com/Spandan-Madan/DeepLearningProject
 - [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [Jupyter notebooks from the scikit-learn video series - Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
 - [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)
-
-#### Python Data Science Books
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [fast.ai](https://www.fast.ai/) - The fastai deep learning library, plus lessons and and tutorials http://docs.fast.ai
-- [fast.ai - Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
-- [Deep-Learning-101](https://github.com/emilwallner/Deep-Learning-101)
-- [Agile Data Science 2.0](https://github.com/rjurney/Agile_Data_Code_2)
-- [Introduction to Statistics With Python](https://github.com/thomas-haslwanter/statsintro_python)
-- [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
-- [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
-- [ISLR](http://www-bcf.usc.edu/~gareth/ISL/) -  [ISLR in Python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
-- [Coursera ML - Andrew Ng in Python](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
-- [Think Python 2nd ed](https://github.com/AllenDowney/ThinkPython2)
-- [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
-- [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
-- [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python - Sebastian Raschka](https://github.com/rasbt/deep-learning-book)
-- [Python Machine Learning (2nd edition) - Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
-- [Pattern Classification - Sebastian Raschka](https://github.com/rasbt/pattern_classification)
-- [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
-- [Make Your Own Neural Network](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
-- [Learning AI if you Suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037)
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
 
 
 #### ML Articles
