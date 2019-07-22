@@ -9,6 +9,32 @@ Popular Python APIs (with code examples)
 ### Python Libraries
 --------------
 
+#### Data Science Workflows
+- [Data Science Workflows using Docker Containers(YouTube)](https://www.youtube.com/watch?v=oO8n3y23b6M)
+- [How Docker Can Make You A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
+
+#### Linear Algebra
+- [fast.ai - Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
+- [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
+
+#### Python Data Science Books
+- [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml)
+- [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow 2 (2nd Ed)](https://github.com/ageron/handson-ml2)
+- [Python Machine Learning (2nd edition) - Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- [Introduction to Artificial Neural Networks and Deep Learning - Sebastian Raschka](https://github.com/rasbt/deep-learning-book) [code](https://github.com/rasbt/deeplearning-models)
+- [Pattern Classification - Sebastian Raschka](https://github.com/rasbt/pattern_classification)
+- [Agile Data Science 2.0](https://github.com/rjurney/Agile_Data_Code_2)
+- [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
+- [ISLR](http://www-bcf.usc.edu/~gareth/ISL/) -  [ISLR in Python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
+- [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
+- [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
+- [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)
+
+----
+
 #### My Favorite Tools
 - [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. http://www.scikit-yb.org/
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
@@ -17,7 +43,6 @@ Popular Python APIs (with code examples)
 - [altair](https://altair-viz.github.io/index.html) - ([Github](https://github.com/altair-viz/altair)) - Declarative statistical visualization library for Python
 - [Pandas Styling](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html) - [Mode Blog](https://mode.com/example-gallery/python_dataframe_styling/)
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
-
 
 ------------
 
@@ -42,16 +67,36 @@ Popular Python APIs (with code examples)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
 - [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
 
+----------------
+
+#### Notebook Tools
+- [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks
+- [Notebook Kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
+- [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - WebRTC for Jupyter notebook/lab
+- [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) ([Notebook Example](https://github.com/Chekos/blog-posts/tree/master/altair%20%2B%20ipywidgets))- Interactive Widgets for the Jupyter Notebook
+- [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive Jupyter widgets to visualize images in 2D and 3D.
+- [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
+- [voila](https://github.com/QuantStack/voila) - From Jupyter notebooks to standalone web applications and dashboards
+- [nb2xls](https://github.com/ideonate/nb2xls) - Convert Jupyter notebook to Excel spreadsheet
+- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
+- [StackOverflow - R & Python in One Jupyter Notebook %%R](https://stackoverflow.com/questions/39008069/r-and-python-in-one-jupyter-notebook)
+- [RISE](https://github.com/damianavila/RISE) - RISE allows you to instantly turn your Jupyter Notebooks into a slideshow. No out-of-band conversion is needed, switch from jupyter notebook to a live reveal.js-based slideshow in a single keystroke, and back.
+
+### Jupyter Notebook Hubs and Extentions
+- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment
+- [jupyterhub](https://github.com/jupyterhub/jupyterhub)
+- [Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - [blog](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231) - [How to write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
+- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
+- [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
+
+-------------
+
 #### AutoML
 - [MLBox](https://github.com/AxeldeRomblay/MLBox) - MLBox is a powerful Automated Machine Learning python library. https://mlbox.readthedocs.io/en/latest/
 - [tpot](https://github.com/EpistasisLab/tpot) - A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. http://epistasislab.github.io/tpot/
 - [auto-sklearn](https://github.com/automl/auto-sklearn) - Automated Machine Learning with scikit-learn https://automl.github.io/auto-sklearn
 - [H20ai](https://github.com/h2oai/h2o-tutorials) - Tutorials and training material for the H2O Machine Learning Platform
 - [adanet](https://github.com/tensorflow/adanet) - Fast and flexible AutoML with learning guarantees. https://adanet.readthedocs.io
-
-#### Data Science Workflows
-- [Data Science Workflows using Docker Containers(YouTube)](https://www.youtube.com/watch?v=oO8n3y23b6M)
-- [How Docker Can Make You A More Effective Data Scientist](https://towardsdatascience.com/how-docker-can-help-you-become-a-more-effective-data-scientist-7fc048ef91d5)
 
 #### Statistics
 - [pgmpy](https://github.com/pgmpy/pgmpy) - [Notebook tutorials](https://github.com/pgmpy/pgmpy/tree/dev/examples) - Python Library for Probabilistic Graphical Models
@@ -137,49 +182,6 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [Blaze](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data
 - [Faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [Kedro](https://github.com/quantumblacklabs/kedro) - A Python library for building robust production-ready data and analytics pipelines
-
--------------
-#### Notebook Tools
-- [papermill](https://github.com/nteract/papermill) - Parameterize, execute, and analyze notebooks
-- [Notebook Kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
-- [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - WebRTC for Jupyter notebook/lab
-- [ipywidgets](https://ipywidgets.readthedocs.io/en/stable/examples/Widget%20List.html) ([Notebook Example](https://github.com/Chekos/blog-posts/tree/master/altair%20%2B%20ipywidgets))- Interactive Widgets for the Jupyter Notebook
-- [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - Interactive Jupyter widgets to visualize images in 2D and 3D.
-- [jupytext](https://github.com/mwouts/jupytext) - Jupyter notebooks as Markdown documents, Julia, Python or R scripts
-- [voila](https://github.com/QuantStack/voila) - From Jupyter notebooks to standalone web applications and dashboards
-- [nb2xls](https://github.com/ideonate/nb2xls) - Convert Jupyter notebook to Excel spreadsheet
-- [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
-- [StackOverflow - R & Python in One Jupyter Notebook %%R](https://stackoverflow.com/questions/39008069/r-and-python-in-one-jupyter-notebook)
-- [RISE](https://github.com/damianavila/RISE) - RISE allows you to instantly turn your Jupyter Notebooks into a slideshow. No out-of-band conversion is needed, switch from jupyter notebook to a live reveal.js-based slideshow in a single keystroke, and back.
-
-### Jupyter Notebook Hubs and Extentions
-- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment
-- [jupyterhub](https://github.com/jupyterhub/jupyterhub)
-- [Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions) - [blog](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231) - [How to write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
-- [beakerx](https://github.com/twosigma/beakerx) - Beaker Extensions for Jupyter Notebook
-- [nbviewer](https://github.com/jupyter/nbviewer) - nbconvert as a web service: Render Jupyter Notebooks as static web pages
-
--------------
-
-#### Linear Algebra
-- [fast.ai - Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
-- [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
-
-#### Python Data Science Books
-- [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml)
-- [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow 2 (2nd Ed)](https://github.com/ageron/handson-ml2)
-- [Python Machine Learning (2nd edition) - Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
-- [Introduction to Artificial Neural Networks and Deep Learning - Sebastian Raschka](https://github.com/rasbt/deep-learning-book) [code](https://github.com/rasbt/deeplearning-models)
-- [Pattern Classification - Sebastian Raschka](https://github.com/rasbt/pattern_classification)
-- [Agile Data Science 2.0](https://github.com/rjurney/Agile_Data_Code_2)
-- [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
-- [ISLR](http://www-bcf.usc.edu/~gareth/ISL/) -  [ISLR in Python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
-- [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
-- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
-- [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
-- [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)
 
 -------------
 
