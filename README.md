@@ -162,31 +162,24 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 -------------
 
 #### Linear Algebra
-- numpy
+- [fast.ai - Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
 - [numerical-linear-algebra](https://github.com/fastai/numerical-linear-algebra)
 
 #### Python Data Science Books
-- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-- [fast.ai](https://www.fast.ai/) - The fastai deep learning library, plus lessons and and tutorials http://docs.fast.ai
-- [fast.ai - Linear Algebra](https://github.com/fastai/numerical-linear-algebra)
-- [Deep-Learning-101](https://github.com/emilwallner/Deep-Learning-101)
-- [Agile Data Science 2.0](https://github.com/rjurney/Agile_Data_Code_2)
-- [Introduction to Statistics With Python](https://github.com/thomas-haslwanter/statsintro_python)
-- [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
-- [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
-- [ISLR](http://www-bcf.usc.edu/~gareth/ISL/) -  [ISLR in Python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
-- [Coursera ML - Andrew Ng in Python](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
-- [Think Python 2nd ed](https://github.com/AllenDowney/ThinkPython2)
-- [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
-- [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
-- [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python - Sebastian Raschka](https://github.com/rasbt/deep-learning-book)
+- [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://github.com/ageron/handson-ml)
+- [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow 2 (2nd Ed)](https://github.com/ageron/handson-ml2)
 - [Python Machine Learning (2nd edition) - Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+- [Introduction to Artificial Neural Networks and Deep Learning - Sebastian Raschka](https://github.com/rasbt/deep-learning-book) [code](https://github.com/rasbt/deeplearning-models)
 - [Pattern Classification - Sebastian Raschka](https://github.com/rasbt/pattern_classification)
-- [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
-- [Make Your Own Neural Network](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
-- [Learning AI if you Suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037)
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
-
+- [Agile Data Science 2.0](https://github.com/rjurney/Agile_Data_Code_2)
+- [Deep Learning with Python - François Chollet](https://github.com/fchollet/deep-learning-with-python-notebooks)
+- [PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [practical-machine-learning-with-python](https://github.com/dipanjanS/practical-machine-learning-with-python)
+- [ISLR](http://www-bcf.usc.edu/~gareth/ISL/) -  [ISLR in Python](https://github.com/JWarmenhoven/ISLR-python) - An Introduction to Statistical Learning (James, Witten, Hastie, Tibshirani, 2013): Python code
+- [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
+- [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
+- [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)
 
 -------------
 
@@ -351,10 +344,16 @@ https://github.com/ZuzooVn/machine-learning-for-software-engineers
 https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks
 https://github.com/Spandan-Madan/DeepLearningProject
 - [Machine Learning from Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
-- [Data-Analysis-and-Machine-Learning-Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
-- [Deep Learning Tutorials](https://github.com/lisa-lab/DeepLearningTutorials) - Repository of teaching materials, code, and data for my data analysis and machine learning projects.
 - [Jupyter notebooks from the scikit-learn video series - Justin Markham](https://github.com/justmarkham/scikit-learn-videos)
-- [TensorFlow Tutorials](https://github.com/pkmital/tensorflow_tutorials)
+- [fast.ai](https://www.fast.ai/) - The fastai deep learning library, plus lessons and and tutorials http://docs.fast.ai
+- [Coursera ML - Andrew Ng in Python](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
+- [Think Python 2nd ed](https://github.com/AllenDowney/ThinkPython2)
+- [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
+- [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
+- [Make Your Own Neural Network](https://github.com/makeyourownneuralnetwork/makeyourownneuralnetwork)
+- [Learning AI if you Suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+- [Introduction to Statistics With Python](https://github.com/thomas-haslwanter/statsintro_python)
 
 
 #### ML Articles
