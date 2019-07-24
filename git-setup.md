@@ -16,9 +16,12 @@ $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 
 #### If you have Multiple SSH Keys (often you will)
-You have to do some magic to make it work. There's a few suggestions here: [SSHing into Multiple Github Accounts](https://gist.github.com/jexchan/2351996)
+You have to do some magic to make it work. Follow these directions. You'll basically need to add both id_rsa's (or however many you have), then go through cloning (from each account) into that account and setting up a push from there. Once done, as long as you're in that repository directory locally, git will recognize the correct account and be able to pull/push from the correct account. 
+- [How to manage multiple GitHub accounts on a single machine with SSH keys](https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/)
 
-For example your `~/.ssh folder may have multiple keys:
+If none of that doesn't work for you for some reason, there's a few suggestions here: [SSHing into Multiple Github Accounts](https://gist.github.com/jexchan/2351996)
+
+An example your `~/.ssh` folder may have multiple keys:
 ```
 ~/.ssh/id_rsa
 ~/.ssh/id_rsa_home
@@ -27,7 +30,6 @@ For example your `~/.ssh folder may have multiple keys:
 ```
 
 You will have to add all these keys to your SSH agent,
-e.g.
 ```
 ssh-add ~/.ssh/id_rsa
 ssh-add ~/.ssh/id_rsa_home
@@ -35,7 +37,10 @@ ssh-add ~/.ssh/id_rsa_work
 ssh-add ~/.ssh/id_rsa_aws
 ```
 
-Now to use each for a specific task you'll have to use the `-i` (identity) tag for the correct pairing.
+
+### for EC2s - you will use an identity
+
+The `-i` (identity) tag for the correct pairing.
 e.g. `ssh -i ~/.ssh/id_rsa_aws ubuntu@aws-sdf-adfs-s112312.com`
 
 
