@@ -4,6 +4,9 @@ You may use whatever version/source control you like. There's two main flavors, 
 ```bash
 # set up your keys for your email account
 ssh-keygen -t rsa -C "email@work_mail.com" -f "id_rsa_work_user1"
+
+# -b is for bytes of your encryption key, e.g. 1024, 2048, 4096 like so...
+$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 
 Then you're going to need to generate an SSH key so you can SSH from your host (e.g. your laptop or an EC2) to your git responsitory (e.g. Github).
