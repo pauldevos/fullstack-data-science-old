@@ -1,6 +1,11 @@
 ### Set up and Configure Git
 You may use whatever version/source control you like. There's two main flavors, subversion and git. As of this writing, Git has 3 main hosting services: [Github](https://github.com/), [Bitbucket](https://bitbucket.org/), and [Gitlab](https://about.gitlab.com/).
 
+Then you're going to need to generate an SSH key so you can SSH from your host (e.g. your laptop or an EC2) to your git responsitory (e.g. Github).
+
+There's some instructiosn on how to this here: [Generating a new SSH key and adding it to the ssh-agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+
+
 ```bash
 # set up your keys for your email account, the -f is for the output filename
 ssh-keygen -t rsa -C "email@work_mail.com" -f "id_rsa_work_user1"
@@ -9,9 +14,6 @@ ssh-keygen -t rsa -C "email@work_mail.com" -f "id_rsa_work_user1"
 $ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 ```
 
-Then you're going to need to generate an SSH key so you can SSH from your host (e.g. your laptop or an EC2) to your git responsitory (e.g. Github).
-
-There's some instructiosn on how to this here: [Generating a new SSH key and adding it to the ssh-agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 
 #### If you have Multiple SSH Keys (often you will)
 You have to do some magic to make it work. There's a few suggestions here: [SSHing into Multiple Github Accounts](https://gist.github.com/jexchan/2351996)
