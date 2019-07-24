@@ -2,7 +2,7 @@
 You may use whatever version/source control you like. There's two main flavors, subversion and git. As of this writing, Git has 3 main hosting services: [Github](https://github.com/), [Bitbucket](https://bitbucket.org/), and [Gitlab](https://about.gitlab.com/).
 
 ```bash
-# set up your keys for your email account
+# set up your keys for your email account, the -f is for the output filename
 ssh-keygen -t rsa -C "email@work_mail.com" -f "id_rsa_work_user1"
 
 # -b is for bytes of your encryption key, e.g. 1024, 2048, 4096 like so...
