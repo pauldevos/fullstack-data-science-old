@@ -1,0 +1,39 @@
+### Set up and Configure Git
+You may use whatever version/source control you like. There's two main flavors, subversion and git. As of this writing, Git has 3 main hosting services: [Github](https://github.com/), [Bitbucket](https://bitbucket.org/), and [Gitlab](https://about.gitlab.com/).
+
+```bash
+# set up your keys for your email account
+ssh-keygen -t rsa -C "email@work_mail.com" -f "id_rsa_work_user1"
+```
+
+Then you're going to need to generate an SSH key so you can SSH from your host (e.g. your laptop or an EC2) to your git responsitory (e.g. Github).
+
+There's some instructiosn on how to this here: [Generating a new SSH key and adding it to the ssh-agent](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
+
+#### If you have Multiple SSH Keys (often you will)
+You have to do some magic to make it work. There's a few suggestions here: [SSHing into Multiple Github Accounts](https://gist.github.com/jexchan/2351996)
+
+For example your `~/.ssh folder may have multiple keys:
+```
+~/.ssh/id_rsa
+~/.ssh/id_rsa_home
+~/.ssh/id_rsa_work
+~/.ssh/id_rsa_aws
+```
+
+You will have to add all these keys to your SSH agent,
+e.g.
+```
+ssh-add ~/.ssh/id_rsa
+ssh-add ~/.ssh/id_rsa_home
+ssh-add ~/.ssh/id_rsa_work
+ssh-add ~/.ssh/id_rsa_aws
+```
+
+Now to use each for a specific task you'll have to use the `-i` (identity) tag for the correct pairing.
+e.g. `ssh -i ~/.ssh/id_rsa_aws ubuntu@aws-sdf-adfs-s112312.com`
+
+
+If you need to add SSH keys to an EC2, you can find instructions for that here:
+- [How do I add new user accounts with SSH access to my Amazon EC2 Linux instance?](https://aws.amazon.com/premiumsupport/knowledge-center/new-user-accounts-linux-instance/)
+
