@@ -13,4 +13,14 @@ One of the most important things you can do is settle on your tools instead of t
 
 
 ### POC Build Machine Learning Models
-- Python - Scikit-Learn, XGBoost, CatBoost, LightGBM
+- Python 
+  - Classic ML
+    - Scikit-Learn
+    - XGBoost
+    - CatBoost
+    - LightGBM
+    - PySpark
+  - Deep Learning
+    - TensorFlow
+    - Keras
+    - PyTorch
