@@ -9,3 +9,8 @@ One of the most important things you can do is settle on your tools instead of t
 - Flask, Flask-RESTful
 - AWS (S3, EC2, ECS, RDS, EMR, Lambda, DynamoDB, Kinesis)
 - Go
+
+
+
+### POC Build Machine Learning Models
+- Python - Scikit-Learn, XGBoost, CatBoost, LightGBM
