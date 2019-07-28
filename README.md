@@ -44,6 +44,10 @@ Popular Python APIs (with code examples)
 - [Pandas Styling](https://pandas.pydata.org/pandas-docs/stable/user_guide/style.html) - [Mode Blog](https://mode.com/example-gallery/python_dataframe_styling/)
 - [pandas-profiling](https://github.com/pandas-profiling/pandas-profiling) - Create HTML profiling reports from pandas DataFrame objects
 
+### Ones to Check out
+- [mlens](https://github.com/flennerhag/mlens) - ML-Ensemble – high performance ensemble learning http://ml-ensemble.com
+
+
 ------------
 
 #### Machine Learning Libraries
@@ -66,6 +70,7 @@ Popular Python APIs (with code examples)
 - [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
 - [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
+
 
 ----------------
 
