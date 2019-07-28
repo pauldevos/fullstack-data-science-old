@@ -46,7 +46,7 @@ Popular Python APIs (with code examples)
 
 ### Ones to Check out
 - [mlens](https://github.com/flennerhag/mlens) - ML-Ensemble – high performance ensemble learning http://ml-ensemble.com
-
+- [scikit-optimize](https://github.com/scikit-optimize/scikit-optimize) - Sequential model-based optimization with a `scipy.optimize` interface https://scikit-optimize.github.io
 
 ------------
 
