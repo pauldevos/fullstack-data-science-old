@@ -81,6 +81,7 @@ Popular Python ML APIs
 #### Hyperparameter Tuners
 - [hyperband](https://github.com/zygmuntz/hyperband)
 - [hyperas](https://github.com/maxpumperla/hyperas)
+- [hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python http://hyperopt.github.io/hyperopt
 
 
 
