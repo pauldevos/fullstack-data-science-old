@@ -74,6 +74,8 @@ Popular Python ML APIs
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
 - [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
 
+#### PyTorch
+- [PyTorch Examples](https://github.com/pytorch/examples)
 
 #### Hyperparameter Tuners
 - [hyperband](https://github.com/zygmuntz/hyperband)
