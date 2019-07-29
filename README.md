@@ -108,7 +108,7 @@ Popular Python APIs (with code examples)
 - [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 - [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
 - [PyMC3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning
-- [PyMC3 Resources/Tutorials](https://github.com/pymc-devs/resources) - PyMC3 educational resources
+- [PyMC3 Resources/Tutorials](https://github.com/pymc-devs/resources) - PyMC3 educational resources - ([Textbook](https://xcelab.net/rm/statistical-rethinking/))
 - [Intro2Stats (Tutorial)](https://github.com/rouseguy/intro2stats/tree/master/notebooks)
 - [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
 
