@@ -71,6 +71,9 @@ Popular Python APIs (with code examples)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
 - [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
 
+#### Hyperparameter Tuners
+- [hyperband](https://github.com/zygmuntz/hyperband)
+- [hyperas](https://github.com/maxpumperla/hyperas)
 
 ----------------
 
@@ -232,6 +235,7 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 - [keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for humans
 - [Visdom](https://github.com/facebookresearch/visdom) - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy.
 - [talos](https://github.com/autonomio/talos) - Hyperparameter Optimization for Keras Models
+- [keras-contrib](https://github.com/keras-team/keras-contrib)
 
 #### Recommender Systems
 - [list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems)
