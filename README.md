@@ -6,6 +6,9 @@ A list of some favorite libraries in Python as well as specific areas of Python 
 Popular Python APIs (with code examples)
 - [Module List](https://www.programcreek.com/python/index/module/list)
 
+Popular Python ML APIs
+- [Skymind - Python APIs](https://skymind.ai/wiki/python-ai)
+
 ### Python Libraries
 --------------
 
@@ -71,9 +74,12 @@ Popular Python APIs (with code examples)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
 - [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
 
+
 #### Hyperparameter Tuners
 - [hyperband](https://github.com/zygmuntz/hyperband)
 - [hyperas](https://github.com/maxpumperla/hyperas)
+
+
 
 ----------------
 
