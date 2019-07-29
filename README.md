@@ -107,7 +107,8 @@ Popular Python APIs (with code examples)
 - [pgmpy](https://github.com/pgmpy/pgmpy) - [Notebook tutorials](https://github.com/pgmpy/pgmpy/tree/dev/examples) - Python Library for Probabilistic Graphical Models
 - [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 - [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
-- [PyMC3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano
+- [PyMC3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning
+- [PyMC3 Resources/Tutorials](https://github.com/pymc-devs/resources) - PyMC3 educational resources
 - [Intro2Stats (Tutorial)](https://github.com/rouseguy/intro2stats/tree/master/notebooks)
 - [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
 
