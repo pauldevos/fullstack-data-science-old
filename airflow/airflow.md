@@ -19,7 +19,8 @@
 ### DAGs
 [Example-Airflow-DAGs](https://github.com/airflow-plugins/Example-Airflow-DAGs)
 
-
+### Docker Airflow Image
+- [puckel/docker-airflow](https://hub.docker.com/r/puckel/docker-airflow)
 
 ### Airflow vs other Workflow Management solutions
 - e.g. Oozie, Luigi, Azkaban, Cron
