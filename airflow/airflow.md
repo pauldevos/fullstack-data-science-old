@@ -12,6 +12,7 @@
 - [We’re All Using Airflow Wrong and How to Fix It](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 - [Apache Airflow on Docker for Complete Beginners](https://medium.com/@itunpredictable/apache-airflow-on-docker-for-complete-beginners-cf76cf7b2c9a)
 - [What we learned migrating off Cron to Airflow](https://medium.com/videoamp/what-we-learned-migrating-off-cron-to-airflow-b391841a0da4)
+- [Airflow tutorial 2: Set up airflow environment with docker (YouTube)](https://www.youtube.com/watch?v=vvr_WNzEXBE) - 1 video of a series if you want to install on Google Cloud Platform.
 
 
 ### Plugins
