@@ -18,6 +18,8 @@
 - [Airflow Plugins Github Page](https://github.com/airflow-plugins)
 - [Airflow Plugins Docs](https://airflow.apache.org/plugins.html)
 
+### An Example Airflow Project (Repo)
+- [scaffold of Apache Airflow executing Docker containers](https://github.com/spaszek/airflow_project)
 
 ### DAGs
 [Example-Airflow-DAGs](https://github.com/airflow-plugins/Example-Airflow-DAGs)
