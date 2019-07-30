@@ -13,8 +13,9 @@
 ### Regression Evaluation Metrics
 
 
+-----
 
-### Classification Evalutation Metrics
+## Classification Evalutation Metrics
 Sources:
 - [Evaluating a Classification Model: ROC, AUC, Confusion Matric, and Metrics](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)
 
