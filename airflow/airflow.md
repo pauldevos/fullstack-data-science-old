@@ -9,6 +9,7 @@
 - [How to use the DockerOperator in Apache Airflow](https://marclamberti.com/blog/how-to-use-dockeroperator-apache-airflow/)
 - [Airflow with Maxime Beauchemin - Episode 44](https://www.podcastinit.com/episode-44-airflow-with-maxime-beauchemin/)
 - [awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
+- [We’re All Using Airflow Wrong and How to Fix It](https://medium.com/bluecore-engineering/were-all-using-airflow-wrong-and-how-to-fix-it-a56f14cb0753)
 - [Apache Airflow on Docker for Complete Beginners](https://medium.com/@itunpredictable/apache-airflow-on-docker-for-complete-beginners-cf76cf7b2c9a)
 - [What we learned migrating off Cron to Airflow](https://medium.com/videoamp/what-we-learned-migrating-off-cron-to-airflow-b391841a0da4)
 
