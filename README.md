@@ -57,6 +57,7 @@ Popular Python ML APIs
 - [Lime](https://github.com/marcotcr/lime) - Lime: Explaining the predictions of any machine learning classifier
 - [shap](https://github.com/slundberg/shap) - A unified approach to explain the output of any machine learning model.
 - [eli5](https://github.com/TeamHG-Memex/eli5) - A library for debugging/inspecting machine learning classifiers and explaining their predictions
+- [catboost](https://github.com/catboost/catboost) - https://github.com/catboost/catboost
 - [interpretable_machine_learning_with_python](https://github.com/jphall663/interpretable_machine_learning_with_python) - Practical techniques for training interpretable ML models, explaining ML models, and debugging ML models.
 - [awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability) - A curated list of awesome machine learning interpretability resources.
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
