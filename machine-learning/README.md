@@ -12,13 +12,13 @@
 - [Classification Evalutation Metrics](https://github.com/pauldevos/fullstack-data-science/blob/master/machine-learning/README.md#classification-evaluation-metrics)
 
 ----
-<a name="regression-metrics"></a>
+```<a name="regression-metrics"></a>```
 ## Regression Evaluation Metrics 
 
 
 -----
-<a name="classification-metrics"></a>
-## Classification Evalutation Metrics
+```<a name="classification-metrics"></a>```
+## Classification Evaluation Metrics
 Sources:
 - [Evaluating a Classification Model: ROC, AUC, Confusion Matric, and Metrics](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)
 - [Sklearn - Model Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
