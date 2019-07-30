@@ -13,7 +13,8 @@
 
 ----
 ```<a name="regression-metrics"></a>```
-## Regression Evaluation Metrics 
+## Regression Evaluation Metrics
+- [Sklearn Regression Metrics](https://scikit-learn.org/stable/modules/classes.html#regression-metrics)
 
 
 -----
@@ -21,7 +22,9 @@
 ## Classification Evaluation Metrics
 Sources:
 - [Evaluating a Classification Model: ROC, AUC, Confusion Matric, and Metrics](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)
-- [Sklearn - Model Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
+- [Sklearn Classification Metrics](https://scikit-learn.org/stable/modules/classes.html#classification-metrics)
+
 
 Topics
 1. Review of model evaluation
@@ -50,6 +53,11 @@ Topics
   - false_positive_rate = FP / float(TN + FP)
 
 -----
+- [Sklearn - Model Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
+
+
+
 
 
 ### Some insightful ML articles
