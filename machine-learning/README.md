@@ -8,9 +8,11 @@
 - CatBoost
 
 ### Model Validation Libraries
+- [Regression Evaluation Metrics](## Regression Evaluation Metrics)
+- [Classification Evalutation Metrics](## Classification Evalutation Metrics)
 
-
-### Regression Evaluation Metrics
+----
+## Regression Evaluation Metrics
 
 
 -----
@@ -18,6 +20,7 @@
 ## Classification Evalutation Metrics
 Sources:
 - [Evaluating a Classification Model: ROC, AUC, Confusion Matric, and Metrics](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)
+- [Sklearn - Model Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
 Topics
 1. Review of model evaluation
