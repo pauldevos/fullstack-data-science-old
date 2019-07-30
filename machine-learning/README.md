@@ -8,8 +8,8 @@
 - CatBoost
 
 ### Model Validation Libraries
-- [Regression Evaluation Metrics](regression-metrics)
-- [Classification Evalutation Metrics](classification-metrics)
+- [Regression Evaluation Metrics](https://github.com/pauldevos/fullstack-data-science/blob/master/machine-learning/README.md#regression-evaluation-metrics)
+- [Classification Evalutation Metrics](https://github.com/pauldevos/fullstack-data-science/blob/master/machine-learning/README.md#classification-evaluation-metrics)
 
 ----
 <a name="regression-metrics"></a>
