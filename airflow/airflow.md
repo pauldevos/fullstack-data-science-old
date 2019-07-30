@@ -5,6 +5,7 @@
 - [Using Apache Airflow to build reusable ETL on AWS Redshift](https://sonra.io/2018/01/01/using-apache-airflow-to-build-a-data-pipeline-on-aws/)
   - Inputing Connections via the GUI helps "hide" them, perhaps a better way to avoid GUI and still protect your credentials?
   - Great hands-on view of building out your own Operator (e.g. Load data from S3 to RedShift)
+- [Yet Another Scalable Apache Airflow With Docker Example Setup (Very Good!)](https://medium.com/@tomaszdudek/yet-another-scalable-apache-airflow-with-docker-example-setup-84775af5c451)
 - [Airflow with Maxime Beauchemin - Episode 44](https://www.podcastinit.com/episode-44-airflow-with-maxime-beauchemin/)
 - [awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow) - Curated list of resources about Apache Airflow
 - [Apache Airflow on Docker for Complete Beginners](https://medium.com/@itunpredictable/apache-airflow-on-docker-for-complete-beginners-cf76cf7b2c9a)
