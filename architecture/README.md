@@ -12,4 +12,5 @@
 
 
 ## Design Patterns in Software Engineering
-- [Being a Data Scientist does not make you a Software Engineer!](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
+- [Being a Data Scientist does not make you a Software Engineer! (Part 1)](https://towardsdatascience.com/being-a-data-scientist-does-not-make-you-a-software-engineer-c64081526372)
+- [Architecting a Machine Learning Pipeline](https://towardsdatascience.com/architecting-a-machine-learning-pipeline-a847f094d1c7)
