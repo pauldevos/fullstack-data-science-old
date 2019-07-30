@@ -119,7 +119,7 @@ Once the estimators and transformer are serialized, we can create a Docker image
 
 ###
 
-### End-to-End Deployment Process Resources
+### End-to-End Examples of Deploying Python ML Models to Production
 - [A guide to deploying Machine/Deep Learning model(s) in Production](https://blog.usejournal.com/a-guide-to-deploying-machine-deep-learning-model-s-in-production-e497fd4b734a)
 - [Exposing Python machine learning models using Flask, Docker and Azure](https://www.martinnorin.se/exposing-python-machine-learning-models-using-flask-docker-and-azure/)
 - [Deploy your Machine Learning model as an API in 5 minutes (with Docker and Flask)](https://medium.com/dataswati-garage/deploy-your-machine-learning-model-as-api-in-5-minutes-with-docker-and-flask-8aa747b1263b)
@@ -132,6 +132,11 @@ Once the estimators and transformer are serialized, we can create a Docker image
 - [DEPLOYING FLASK APP TO ECS](https://www.bogotobogo.com/DevOps/Docker/Docker-Flask-ALB-ECS.php)
 - [Develop a NLP Model in Python & Deploy It with Flask, Step by Step](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
 - [Deploying a Keras Deep Learning Model as a Web Application in Python](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff)
+- [Deploying a Python Web App on AWS](https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319)
+
+
+
+
 
 ### Serving ML Models with PySpark
 - [Lightning Fast ML Predictions with PySpark](https://medium.com/homeaway-tech-blog/lightning-fast-ml-predictions-with-pyspark-354c8c5abe83)
