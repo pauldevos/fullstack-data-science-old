@@ -140,7 +140,6 @@ Popular Python ML APIs
 - [Open Data Science - Data Visualization – How to Pick the Right Chart Type?](https://opendatascience.com/data-visualization-how-to-pick-the-right-chart-type/)
 - [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/)
 
-
 #### Data Visualization
 - [Yellowbrick](https://github.com/DistrictDataLabs/yellowbrick) - Visual analysis and diagnostic tools to facilitate machine learning model selection. http://www.scikit-yb.org/
 - [scikit-plot](https://github.com/reiinakano/scikit-plot) - An intuitive library to add plotting functionality to scikit-learn objects.
