@@ -1,6 +1,10 @@
 # data-engineering-tools
 A list of tools and whatnot under the umbrella of Data Engineering
 
+# Workflow Managers - ETL
+
+
+
 #### Systems Engineering Overview
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
@@ -123,6 +127,34 @@ A quick preview of some favorite tools and/or frameworks are:
   - [Interactive Python Data Visualization with Bokeh](https://realpython.com/python-data-visualization-bokeh/)
   - [Python Module Imports Visualization](https://chezsoi.org/lucas/blog/python-modules-imports-visualization.html) - [code](https://github.com/Lucas-C/dotfiles_and_notes/blob/master/languages/python/gen_modules_graph.py)
   
+
+## ETL Articles
+
+Links
+- https://dwbi.org/etl
+- https://dwbi.org/etl/etl/54-incremental-loading-for-dimension-table
+- https://gtoonstra.github.io/etl-with-airflow/datavault.html
+- https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a
+- https://gtoonstra.github.io/etl-with-airflow/datavault2.html
+- https://aws.amazon.com/blogs/big-data/top-8-best-practices-for-high-performance-etl-processing-using-amazon-redshift/
+- https://gtoonstra.github.io/etl-with-airflow/platform.html
+- https://panoply.io/data-warehouse-guide/etl-tutorial/
+- https://stefdata.github.io/
+- https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825
+- https://tombreur.wordpress.com/2017/04/30/the-past-and-future-of-dimensional-modeling/
+- https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71
+- https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Data Engineer - First Things First
