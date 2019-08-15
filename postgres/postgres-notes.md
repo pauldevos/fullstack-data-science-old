@@ -1,3 +1,11 @@
+# Using Postgres
+- Two Options:
+    - Install directly onto your machine
+    - Use Docker Container
+
+# Postgres GUI Tool Needed
+- I recommend using [pgadmin](https://www.pgadmin.org/)
+- You can download and install this directly onto your machine or also run this in another docker container. I typically will install this directly on my machine, it's small (~ 100 MB).
 
 
 ### Postgres Full-Text Search
