@@ -102,7 +102,8 @@ Popular Python ML APIs
 - [RISE](https://github.com/damianavila/RISE) - RISE allows you to instantly turn your Jupyter Notebooks into a slideshow. No out-of-band conversion is needed, switch from jupyter notebook to a live reveal.js-based slideshow in a single keystroke, and back.
 - [Tutorial: Advanced Jupyter Notebooks](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 - [Supporting reproducibility in Jupyter through dataflow notebooks](https://www.youtube.com/watch?v=xUZGP2dGRKQ)
-
+- [Explorations in reproducible analysis with Nodebook](https://www.youtube.com/watch?v=CgJrQXOYIk8)
+- [SoS: A polyglot notebook and workflow system for both interactive multilanguage data analysis and batch data processing](https://www.youtube.com/watch?v=U75eKosFbp8)
 
 
 ### Jupyter Notebook Hubs and Extentions
