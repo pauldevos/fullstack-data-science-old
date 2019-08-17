@@ -100,6 +100,7 @@ Popular Python ML APIs
 - [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 - [StackOverflow - R & Python in One Jupyter Notebook %%R](https://stackoverflow.com/questions/39008069/r-and-python-in-one-jupyter-notebook)
 - [RISE](https://github.com/damianavila/RISE) - RISE allows you to instantly turn your Jupyter Notebooks into a slideshow. No out-of-band conversion is needed, switch from jupyter notebook to a live reveal.js-based slideshow in a single keystroke, and back.
+- [Tutorial: Advanced Jupyter Notebooks](https://www.dataquest.io/blog/advanced-jupyter-notebooks-tutorial/)
 
 ### Jupyter Notebook Hubs and Extentions
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment
