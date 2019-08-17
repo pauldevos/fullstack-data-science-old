@@ -104,6 +104,7 @@ Popular Python ML APIs
 - [Supporting reproducibility in Jupyter through dataflow notebooks](https://www.youtube.com/watch?v=xUZGP2dGRKQ)
 - [Explorations in reproducible analysis with Nodebook](https://www.youtube.com/watch?v=CgJrQXOYIk8)
 - [SoS: A polyglot notebook and workflow system for both interactive multilanguage data analysis and batch data processing](https://www.youtube.com/watch?v=U75eKosFbp8)
+- [nodebook](https://github.com/stitchfix/nodebook)
 
 
 ### Jupyter Notebook Hubs and Extentions
