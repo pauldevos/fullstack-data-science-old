@@ -6,6 +6,9 @@
 ### Installing Postgres 10 & pgAdmin4 via Docker
 - [Easy PostgreSQL 10 and pgAdmin 4 Setup with Docker](https://info.crunchydata.com/blog/easy-postgresql-10-and-pgadmin-4-setup-with-docker)
 
+### pg_dump of Postgres (DB Backup, Tables, etc)
+- [How to backup a PostgreSQL database using Docker](https://devopsheaven.com/postgresql/pg_dump/databases/docker/backup/2017/09/10/backup-postgresql-database-using-docker.html)
+
 # Postgres GUI Tool Needed
 - I recommend using [pgadmin](https://www.pgadmin.org/)
 - You can download and install this directly onto your machine or also run this in another docker container. I typically will install this directly on my machine, it's small (~ 100 MB).
