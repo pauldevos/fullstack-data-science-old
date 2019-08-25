@@ -8,6 +8,7 @@
 
 ### pg_dump of Postgres (DB Backup, Tables, etc)
 - [How to backup a PostgreSQL database using Docker](https://devopsheaven.com/postgresql/pg_dump/databases/docker/backup/2017/09/10/backup-postgresql-database-using-docker.html)
+- [Postgres Docs - pg_dump](https://www.postgresql.org/docs/current/app-pgdump.html)
 
 # Postgres GUI Tool Needed
 - I recommend using [pgadmin](https://www.pgadmin.org/)
