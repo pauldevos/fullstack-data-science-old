@@ -4,3 +4,5 @@ I personally like to use `zsh` as the number of plugins for workflow over `bash`
 - [Antigen - Plugin Manager for Zsh](https://github.com/zsh-users/antigen)
 - [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh)
 - [Auto-Suggestions](https://github.com/zsh-users/zsh-autosuggestions)
+
+# Set up your AWS and dot-env files
