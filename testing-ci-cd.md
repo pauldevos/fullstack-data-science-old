@@ -7,3 +7,4 @@
 
 ### CI/CD
 - [CircleCI](https://circleci.com/)
+- Jenkins
