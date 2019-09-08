@@ -12,3 +12,12 @@
 
 ### Articles
 - [Dask vs Celery](https://matthewrocklin.com/blog/work/2016/09/13/dask-and-celery)
+
+
+### AWS Tools
+- [aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler)
+- Glue
+- Data Pipeline
+- Lambda
+- Step Functions
+
