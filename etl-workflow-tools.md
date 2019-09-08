@@ -3,7 +3,11 @@
 - Airflow
 - Luigi
 - Oozie
-- [Prefect](https://github.com/PrefectHQ/prefect) - [[Docs](https://docs.prefect.io/)][[DataEng Podcast](https://www.dataengineeringpodcast.com/prefect-workflow-engine-episode-86/)]
+- [Prefect](https://github.com/PrefectHQ/prefect)
+  - [Docs](https://docs.prefect.io/)
+  - [DataEng Podcast](https://www.dataengineeringpodcast.com/prefect-workflow-engine-episode-86/)
+  - [Dask with Prefect](https://docs.prefect.io/guide/tutorials/dask-cluster.html)
+  - [Why Not Airflow?](https://medium.com/the-prefect-blog/why-not-airflow-4cfa423299c4)
 - [Joblib](https://joblib.readthedocs.io/en/latest/)
 
 ### Articles
