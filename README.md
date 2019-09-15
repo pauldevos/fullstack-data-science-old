@@ -416,7 +416,7 @@ https://github.com/Spandan-Madan/DeepLearningProject
 
 #### NBA Shot Charts
 - [nbashots](https://github.com/savvastj/nbashots) - NBA shot charts using matplotlib, seaborn, and bokeh.
-
+- [nba-team-shot-charts](https://danielwelch.github.io/nba-team-shot-charts.html)
 
 ----------
 ## Courses
