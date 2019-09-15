@@ -75,6 +75,7 @@ Popular Python ML APIs
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
 - [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
 - [tensorwatch](https://github.com/microsoft/tensorwatch)
+- [Snorkel](https://github.com/snorkel-team/snorkel) - A system for quickly generating training data with weak supervision https://snorkel.org
 
 #### PyTorch
 - [PyTorch Examples](https://github.com/pytorch/examples)
