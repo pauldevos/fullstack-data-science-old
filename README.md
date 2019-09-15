@@ -74,6 +74,7 @@ Popular Python ML APIs
 - [100 Days of ML Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 - [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning/blob/master/README.md)
 - [category_encoders](https://github.com/scikit-learn-contrib/categorical-encoding) - A library of sklearn compatible categorical variable encoders
+- [tensorwatch](https://github.com/microsoft/tensorwatch)
 
 #### PyTorch
 - [PyTorch Examples](https://github.com/pytorch/examples)
