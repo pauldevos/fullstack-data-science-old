@@ -127,11 +127,17 @@ Popular Python ML APIs
 
 #### Statistics
 - [pgmpy](https://github.com/pgmpy/pgmpy) - [Notebook tutorials](https://github.com/pgmpy/pgmpy/tree/dev/examples) - Python Library for Probabilistic Graphical Models
-- [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
+- [Intro2Stats (Tutorial)](https://github.com/rouseguy/intro2stats/tree/master/notebooks)
 - [Thinks Stats 2nd ed](https://github.com/AllenDowney/ThinkStats2)
+
+#### Bayesian Statistics
+- [Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 - [PyMC3](https://github.com/pymc-devs/pymc3) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning
 - [PyMC3 Resources/Tutorials](https://github.com/pymc-devs/resources) - PyMC3 educational resources - ([Textbook](https://xcelab.net/rm/statistical-rethinking/))
-- [Intro2Stats (Tutorial)](https://github.com/rouseguy/intro2stats/tree/master/notebooks)
+- [arviz](https://github.com/arviz-devs/arviz) - Exploratory analysis of Bayesian models with Python [https://arviz-devs.github.io/arviz/](https://arviz-devs.github.io/arviz/)
+- [Bayesian Podcast](https://learnbayesstats.anvil.app/)
+- [discourse.pymc.io](https://discourse.pymc.io/)
+
 - [Think Bayes](https://github.com/AllenDowney/ThinkBayes2)
 
 ------------
