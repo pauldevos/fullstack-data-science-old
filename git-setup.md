@@ -1,6 +1,6 @@
 ### Git Resources
-http://rogerdudler.github.io/git-guide/
-https://github.com/joshnh/Git-Commands
+- http://rogerdudler.github.io/git-guide/
+- https://github.com/joshnh/Git-Commands
 
 
 ### Set up and Configure Git
