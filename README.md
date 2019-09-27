@@ -8,6 +8,9 @@ Popular Python APIs (with code examples)
 Popular Python ML APIs
 - [Skymind - Python APIs](https://skymind.ai/wiki/python-ai)
 
+### Python Videos/Tutorials
+- [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+
 ### Python Libraries
 --------------
 
@@ -106,6 +109,7 @@ Popular Python ML APIs
 - [Explorations in reproducible analysis with Nodebook](https://www.youtube.com/watch?v=CgJrQXOYIk8)
 - [SoS: A polyglot notebook and workflow system for both interactive multilanguage data analysis and batch data processing](https://www.youtube.com/watch?v=U75eKosFbp8)
 - [nodebook](https://github.com/stitchfix/nodebook)
+- [jupyter-book](https://github.com/jupyter/jupyter-book) - Create an online book with Jupyter Notebooks and Jekyll http://jupyter.org/jupyter-book
 
 
 ### Jupyter Notebook Hubs and Extentions
