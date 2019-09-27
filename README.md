@@ -84,6 +84,7 @@ Popular Python ML APIs
 #### PyTorch
 - [PyTorch Examples](https://github.com/pytorch/examples)
 - [skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps pytorch
+- [Skorch at Scipy 2019](https://pyvideo.org/scipy-2019/skorch-a-union-of-scikit-learn-and-pytorch-scipy-2019-thomas-fan.html)
 
 #### Hyperparameter Tuners
 - [hyperband](https://github.com/zygmuntz/hyperband)
