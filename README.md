@@ -10,6 +10,8 @@ Popular Python ML APIs
 
 ### Python Videos/Tutorials
 - [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M)
+- [CS212 - Design of Computer Programs by Peter Norvig](https://classroom.udacity.com/courses/cs212)
+- [Cory Shafer Python OOP - 6 Video Series](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 ### Python Libraries
 --------------
