@@ -10,4 +10,5 @@
 - https://hackersandslackers.com/sqlalchemy-managing-relationships-data-models/
 - https://medium.com/@olegkomarov_77860/how-to-embed-a-dash-app-into-an-existing-flask-app-ea05d7a2210b
 - https://dash.plot.ly/integrating-dash#targetText=As%20discussed%20in%20the%20Deployment,of%20an%20existing%20Flask%20app.
+- https://flask-table.readthedocs.io/en/stable/
 
