@@ -1,5 +1,6 @@
 # Dash Tutorials
 - [Interactive, Web-Based Dashboards in Python](https://alysivji.github.io/reactive-dashboards-with-dash.html)
+- [How to Build a Reporting Dashboard using Dash and Plotly](https://towardsdatascience.com/how-to-build-a-complex-reporting-dashboard-using-dash-and-plotl-4f4257c18a7f)
 
 
 ### Basketball App
