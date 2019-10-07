@@ -1,3 +1,9 @@
+### Starting a New Project
+1. Go to Github and create a new project (give it a name), create a `.gitignore` (e.g. Python), a `LICENSE.txt` and a `README.md`.
+2. Then locally (or on wherever you're going to do development), create that directory and then do a `git clone git@github.com:<username>/<repo_name>.git`
+3. Then add your files. In doing so this foregoes all the possible entanglements of `git init`, `git commit`, `git remote add origin master` and various issues with the `git pull` and your current directory.
+
+
 ### Git Resources
 - http://rogerdudler.github.io/git-guide/
 - https://github.com/joshnh/Git-Commands
