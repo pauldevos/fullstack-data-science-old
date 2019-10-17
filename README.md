@@ -209,7 +209,9 @@ A Python / ThreeJS bridge utilizing the Jupyter widget infrastructure.
 -------------
 
 #### Monte Carlo Simulations
-- [PBP - Monte Carlo Simulation with Python](https://pbpython.com/monte-carlo.html)
+- [PBP - Monte Carlo Simulation with Python](https://pbpython.com/monte-carlo.html) - ([Code](https://github.com/chris1610/pbpython/blob/master/notebooks/Monte_Carlo_Simulationv2.ipynb))
+- [Monte Carlo simulation in Python](https://www.mikulskibartosz.name/monte-carlo-simulation-in-python/)
+
 
 #### Data Pipeline Tools
 - [Pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
