@@ -1,6 +1,7 @@
 ### Machine Learning Notes
 
-
+### Feature Scaling Articles
+- [Sebastian Raschka](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
 
 **How should I normalize features in machine learning assuming logistic regression?**
 - I have a continuous variable ranging from 0 to 1,000,000 and some binary variables (0 or 1). What’s the best way to normalize the continuous variable and why?
