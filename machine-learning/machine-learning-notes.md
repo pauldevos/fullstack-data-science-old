@@ -47,3 +47,4 @@ Note: Naive Bayes, Linear Discriminant Analysis, and Tree-Based models are not a
 In Short, any Algorithm which is Not Distance based is Not affected by Feature Scaling.
 
 
+ 
