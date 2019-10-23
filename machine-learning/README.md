@@ -114,6 +114,23 @@ In Algebra, Normalization seems to refer to the dividing of a vector by its leng
 And in statistics, Standardization seems to refer to the subtraction of the mean and then dividing by its SD (standard deviation). Standardization transforms your data such that the resulting distribution has a mean of 0 and a standard deviation of 1.
 
 Regularization is a technique to avoid overfitting when training the machine learning algorithms. The model will have a low accuracy if it is overfitted and to overcome this regularization can be achieved by constraining and regularizing the coefficient estimating it towards zero.
+
+
+--
+
+You should read this page comp.ai.neural-nets FAQ, Part 2 of 7: LearningSection - Should I normalize/standardize/rescale the
+Very informative and nicely explained.
+
+In short,
+Z-score normalization is given by
+$$Z=(X−mean(X))/sd(X)$$
+
+Min-Max Normalization is given by
+Z=(X−min(X))/(max(X)−min(X))
+where, X is the training data and Z is the normalized training data.
+
+Both the techniques are famous for normalizing data in machine learning/ deep learning.
+
 --
 
 ------------
