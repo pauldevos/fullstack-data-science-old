@@ -131,9 +131,6 @@ where, X is the training data and Z is the normalized training data.
 
 Both the techniques are famous for normalizing data in machine learning/ deep learning.
 
-$\frac{n!}{k!(n-k)!} = {n \choose k}$
-
-Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
 
 --
 
