@@ -11,12 +11,15 @@ Notes on Machine Learning and the Frameworks I use.
 
 
 ----
-## Regression Evaluation Metrics
+
+## Model Evaluation Metrics
+
+### Regression Evaluation Metrics
 - [Sklearn Regression Metrics](https://scikit-learn.org/stable/modules/classes.html#regression-metrics)
 
 
 -----
-## Classification Evaluation Metrics
+### Classification Evaluation Metrics
 Sources:
 - [Evaluating a Classification Model: ROC, AUC, Confusion Matric, and Metrics](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)
 
@@ -49,13 +52,14 @@ Topics
     - specificity = TN / (TN + FP)
   - false_positive_rate = FP / float(TN + FP)
 
------
+
 - [Sklearn - Model Evaluation](https://scikit-learn.org/stable/modules/model_evaluation.html)
 
 
-### Feature Scaling
+-----
 
-### Machine Learning Notes
+
+## Feature Scaling
 
 ### Feature Scaling Articles
 - [Sebastian Raschka](https://sebastianraschka.com/Articles/2014_about_feature_scaling.html)
