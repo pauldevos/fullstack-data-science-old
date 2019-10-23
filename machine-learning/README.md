@@ -123,7 +123,7 @@ Very informative and nicely explained.
 
 In short,
 Z-score normalization is given by
-$$Z=(X−mean(X))/sd(X)$$
+Z=(X−mean(X))/sd(X)
 
 Min-Max Normalization is given by
 Z=(X−min(X))/(max(X)−min(X))
@@ -132,6 +132,21 @@ where, X is the training data and Z is the normalized training data.
 Both the techniques are famous for normalizing data in machine learning/ deep learning.
 
 --
+
+I typically use standardization over "normalization" (min-max scaling) since you get mean-centering for free, which is important in certain algorithms, too.
+Algorithms where feature scaling matters are
+
+- k-means if you use, for example, Euclidean distance since you typically want all features to contribute equally
+- k-nearest neighbors (see k-means)
+- logistic regression, SVMs, perceptrons, neural networks etc if you are using gradient descent/ascent-based optimization, otherwise some weights will update much faster than others, for example
+- linear discriminant analysis, principal component analysis, kernel principal component analysis since you want to find directions of maximizing the variance (under the constraints that those directions/eigenvectors/principal components are orthogonal); you want to have the same scale here since you'd emphasize variables on "larger measurement scales" more
+
+
+
+
+
+
+
 
 ------------
 
