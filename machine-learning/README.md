@@ -104,6 +104,14 @@ Note: Naive Bayes, Linear Discriminant Analysis, and Tree-Based models are not a
 In Short, any Algorithm which is Not Distance based is Not affected by Feature Scaling.
 
 
+--
+In Algebra, Normalization seems to refer to the dividing of a vector by its length and it transforms your data into a range between 0 and 1
+
+And in statistics, Standardization seems to refer to the subtraction of the mean and then dividing by its SD (standard deviation). Standardization transforms your data such that the resulting distribution has a mean of 0 and a standard deviation of 1.
+
+Regularization is a technique to avoid overfitting when training the machine learning algorithms. The model will have a low accuracy if it is overfitted and to overcome this regularization can be achieved by constraining and regularizing the coefficient estimating it towards zero.
+--
+
 ------------
 
 
