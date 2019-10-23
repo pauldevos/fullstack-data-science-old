@@ -131,6 +131,11 @@ where, X is the training data and Z is the normalized training data.
 
 Both the techniques are famous for normalizing data in machine learning/ deep learning.
 
+$$
+\frac{n!}{k!(n-k)!} = {n \choose k}
+$$
+
+
 --
 
 I typically use standardization over "normalization" (min-max scaling) since you get mean-centering for free, which is important in certain algorithms, too.
@@ -143,9 +148,29 @@ Algorithms where feature scaling matters are
 
 
 
+Data normalization in machine learning is called feature scaling. There are three main methods:
 
+Rescaling (also called min-max scaling)
 
+𝑥𝑛𝑜𝑟𝑚=𝑥−𝑥𝑚𝑖𝑛𝑥𝑚𝑎𝑥−𝑥𝑚𝑖𝑛
 
+The data is transformed to a scale of [0,1].
+
+Standardization
+
+𝑥𝑛𝑜𝑟𝑚=𝑥−𝜇𝜎
+
+The data is normalized to a Z-score, or standard score.
+
+Scaling to unit length
+
+𝑥𝑛𝑜𝑟𝑚=𝑥||𝑥||
+
+where ||𝑥|| is the Euclidian length of the feature vector.
+
+In my opinion, min-max scaling should be avoided if possible, because features with long-tail distributions will be dominated by features with uniform distributions. Standardization mostly solves this problem, but cannot be applied when the data has to fit within exact boundaries, such as with many neural network algorithms.
+
+- https://qr.ae/TWFUjk
 
 
 ------------
