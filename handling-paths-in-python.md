@@ -4,7 +4,7 @@ Handling Path in Python is **very important** if you plan on your code running o
 Some ways to look at solving this problem include
 - pathlib
 - shutil
-- Os
+- os
 - sys
 - subprocess
 
